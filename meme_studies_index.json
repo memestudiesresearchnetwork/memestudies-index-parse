@@ -1,0 +1,3367 @@
+{
+    "cf01bead896c45e3abb28ccb771a67c7": {
+        "id": "cf01bead896c45e3abb28ccb771a67c7",
+        "authors": [
+            {
+                "lastname": "Bolter",
+                "firstname": "David J. "
+            },
+            {
+                "lastname": "Grusin",
+                "firstname": "Richard A."
+            }
+        ],
+        "year": "1999",
+        "article_name": "Remediation: Understanding New Media",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "MIT Press",
+        "book_isbn": "ISBN 978-0262522793",
+        "book_city": "Cambridge, MA",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "New Media"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "c57bf67af8674db4af9e8c845e580758": {
+        "id": "c57bf67af8674db4af9e8c845e580758",
+        "authors": [
+            {
+                "lastname": "Manovich",
+                "firstname": "Lev"
+            }
+        ],
+        "year": "2001",
+        "article_name": "The Language of New Media",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "MIT Press",
+        "book_isbn": "ISBN 9780262133746",
+        "book_city": "Cambridge, MA",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "New Media"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "e446f991402a418dafdc79e2283f9147": {
+        "id": "e446f991402a418dafdc79e2283f9147",
+        "authors": [
+            {
+                "lastname": "Saper",
+                "firstname": "Craig"
+            }
+        ],
+        "year": "2001",
+        "article_name": "Networked Art",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "University of Minnesota Press",
+        "book_isbn": "ISBN 978-0-8166-3707-2",
+        "book_city": "Minneapolis",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://www.upress.umn.edu/book-division/books/networked-art",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "New Media"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "0a1f44501a9a4372b9a6192b8176ebdb": {
+        "id": "0a1f44501a9a4372b9a6192b8176ebdb",
+        "authors": [
+            {
+                "lastname": "Tam\u00e1s",
+                "firstname": "Polg\u00e1r"
+            }
+        ],
+        "year": "2005",
+        "article_name": "Freax: The Brief History of the Computer Demoscene",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "CSW-Verlag",
+        "book_isbn": "ISBN 9783981049404",
+        "book_city": "Winnenden, Germany",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "72c39a1964444642bf8f34ba6312d6e6": {
+        "id": "72c39a1964444642bf8f34ba6312d6e6",
+        "authors": [
+            {
+                "lastname": "Friedberg",
+                "firstname": "Anne"
+            }
+        ],
+        "year": "2009",
+        "article_name": "The Virtual Window: From Alberti to Microsoft",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "MIT Press",
+        "book_isbn": "ISBN 978-0-262-51250-3",
+        "book_city": "Cambridge, MA",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "e69751d7265d47bf80ce0eab70520e4a": {
+        "id": "e69751d7265d47bf80ce0eab70520e4a",
+        "authors": [
+            {
+                "lastname": "Navas",
+                "firstname": "Eduardo"
+            }
+        ],
+        "year": "2012",
+        "article_name": "Remix Theory: The Aesthetics of Sampling",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Springer",
+        "book_isbn": "ISBN 978-3990434994",
+        "book_city": "New York",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Remix culture"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "0e8ad1e9053c4acd951c39d31013a74e": {
+        "id": "0e8ad1e9053c4acd951c39d31013a74e",
+        "authors": [
+            {
+                "lastname": "Navas",
+                "firstname": "Eduardo"
+            }
+        ],
+        "year": "2013",
+        "article_name": "Modular Complexity and Remix: The Collapse of Time and Space into Search",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Anthrovision",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "1",
+        "journal_number": "1",
+        "journal_pages": "",
+        "link": "https://doi.org/10.4000/anthrovision.324.",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Remix culture"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "0b2beaadac154b24996202e135c65116": {
+        "id": "0b2beaadac154b24996202e135c65116",
+        "authors": [
+            {
+                "lastname": "Manovich",
+                "firstname": "Lev"
+            }
+        ],
+        "year": "2013",
+        "article_name": "Software Takes Command: Extending the Language of New Media",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Bloomsbury",
+        "book_isbn": "ISBN 978-1-6235-6817-7",
+        "book_city": "New York",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://www.academia.edu/542750/Software_Takes_Command",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "New Media"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "f0ca4116d6544b09865c43ed838f96b1": {
+        "id": "f0ca4116d6544b09865c43ed838f96b1",
+        "authors": [
+            {
+                "lastname": "Ellestr\u00f6m",
+                "firstname": "Lars"
+            }
+        ],
+        "year": "2014",
+        "article_name": "Media Transformation: The Transfer of Media Characteristics among Media",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Palgrave Macmillan",
+        "book_isbn": "ISBN 978-1-137-47425-4",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Media"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "1156a6db583846509802148133b5ed93": {
+        "id": "1156a6db583846509802148133b5ed93",
+        "authors": [
+            {
+                "lastname": "Jenkins",
+                "firstname": "Eric S."
+            }
+        ],
+        "year": "2014",
+        "article_name": "The Modes of Visual Rhetoric: Circulating Memes as Expressions",
+        "resource_type": "Article (Journal) ",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Quarterly Journal of Speech ",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "100",
+        "journal_number": "4",
+        "journal_pages": "442\u201366",
+        "link": "https://doi.org/10.1080/00335630.2014.989258.",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Rhetoric"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "b75be1e5e26a434bbfc3c80f69a8707e": {
+        "id": "b75be1e5e26a434bbfc3c80f69a8707e",
+        "authors": [
+            {
+                "lastname": "Shifman",
+                "firstname": "Limor"
+            }
+        ],
+        "year": "2014",
+        "article_name": "The Cultural Logic of Photo-Based Meme Genres ",
+        "resource_type": "Article (Journal) ",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Journal of Visual Culture",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "13",
+        "journal_number": "3",
+        "journal_pages": "340-358",
+        "link": "https://doi.org/10.1177/1470412914546577.",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Genres"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "add8c49eed4b4941af1e93a776a46b2a": {
+        "id": "add8c49eed4b4941af1e93a776a46b2a",
+        "authors": [
+            {
+                "lastname": "Dobson",
+                "firstname": "A. S."
+            }
+        ],
+        "year": "2015",
+        "article_name": "Girls\u2019 \u2018Pain Memes\u2019 on YouTube: The Production of Pain and Femininity in a Digital Network",
+        "resource_type": "Book chapter",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Ashgate ",
+        "book_isbn": "ISBN 9780367599690",
+        "book_city": "Farnham",
+        "journal_volume": "1",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://www-taylorfrancis-com.ezp.lib.cam.ac.uk/chapters/edit/10.4324/9781315545998-16/girls-pain-memes-youtube-production-pain-femininity-digital-network-amy-shields-dobson?context=ubx&refId=fa88805e-272b-455a-b2a7-d48e3c6bc47c",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Pain"
+            ],
+            "platform": "YouTube",
+            "place": ""
+        }
+    },
+    "a74f7628e6bf496bacb5bb8b11ef2e67": {
+        "id": "a74f7628e6bf496bacb5bb8b11ef2e67",
+        "authors": [
+            {
+                "lastname": "Gries",
+                "firstname": "Laurie E. "
+            }
+        ],
+        "year": "2015",
+        "article_name": "Still Life with Rhetoric: A New Materialist Approach for Visual Rhetorics",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "University Press of Colorado",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://muse.jhu.edu/book/38617",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Rhetoric"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "e6fed091f25348a1bcff012bc4c80fb1": {
+        "id": "e6fed091f25348a1bcff012bc4c80fb1",
+        "authors": [
+            {
+                "lastname": "Wiggins",
+                "firstname": "Bradley E."
+            },
+            {
+                "lastname": "Bowers",
+                "firstname": "G Bret"
+            }
+        ],
+        "year": "2015",
+        "article_name": "Memes as Genre: A Structurational Analysis of the Memescape",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "New Media & Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "17",
+        "journal_number": "11",
+        "journal_pages": "1886\u20131906",
+        "link": "https://doi.org/10.1177/1461444814535194.",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Genres"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "6646b405083e4dbc88a22f6a352e1fc5": {
+        "id": "6646b405083e4dbc88a22f6a352e1fc5",
+        "authors": [
+            {
+                "lastname": "Irvine",
+                "firstname": "Martin"
+            }
+        ],
+        "year": "2015",
+        "article_name": "Remix and the Dialogic Engine of Culture: A Model for Generative Combinatoriality\r\n",
+        "resource_type": "Book Chapter",
+        "book_bookname": "The Routledge Companion to Remix Studies",
+        "book_bookeditor": "Eduardo Navas, Owen Gallagher, Xtine Burrough",
+        "publisher": "Routledge",
+        "book_isbn": "",
+        "book_city": "New York",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "15-41",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Remix culture"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "0d4afdaeaf9641028c8bd50fcc2ef64b": {
+        "id": "0d4afdaeaf9641028c8bd50fcc2ef64b",
+        "authors": [
+            {
+                "lastname": "Sonvilla-Weiss",
+                "firstname": "Stefan"
+            }
+        ],
+        "year": "2015",
+        "article_name": "Good Artists Copy; Great Artists Steal: Reflections on Cut-Copy-Paste Culture\r\n",
+        "resource_type": "Book",
+        "book_bookname": "The Routledge Companion to Remix Studies",
+        "book_bookeditor": "Eduardo Navas, Owen Gallagher, Xtine Burrough",
+        "publisher": "Routledge",
+        "book_isbn": "",
+        "book_city": "New York",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "54-63",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Remix culture"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "bd3ccb96dfa541ec975d53bd127c7ff8": {
+        "id": "bd3ccb96dfa541ec975d53bd127c7ff8",
+        "authors": [
+            {
+                "lastname": "Applegate",
+                "firstname": "Matt"
+            },
+            {
+                "lastname": "Cohen",
+                "firstname": "Jamie"
+            }
+        ],
+        "year": "2017",
+        "article_name": "Communicating Graphically: Mimesis, Visual Language, and Commodification as Culture",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Cultural Politics",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "13",
+        "journal_number": "1",
+        "journal_pages": "81\u2013100",
+        "link": "https://doi.org/10.1215/17432197-3755204.",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "f66b71c624a64dffa1aedecdf83faecd": {
+        "id": "f66b71c624a64dffa1aedecdf83faecd",
+        "authors": [
+            {
+                "lastname": "Breheny",
+                "firstname": "Caitlin"
+            }
+        ],
+        "year": "2017",
+        "article_name": "\u201cBy Any Memes Necessary\u201d: Exploring the Intersectional Politics of Feminist Memes on Instagram",
+        "resource_type": "MA Dissertation",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "MA Dissertation, University of Uppsala",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Politics",
+                "Identity"
+            ],
+            "platform": "Instagram",
+            "place": ""
+        }
+    },
+    "fc3d01a84c8a466496536477754f3a30": {
+        "id": "fc3d01a84c8a466496536477754f3a30",
+        "authors": [
+            {
+                "lastname": "Boudana",
+                "firstname": "Sandrine"
+            },
+            {
+                "lastname": "Frosh",
+                "firstname": "Paul"
+            },
+            {
+                "lastname": "Cohen",
+                "firstname": "Akiba A."
+            }
+        ],
+        "year": "2017",
+        "article_name": "Reviving icons to death: when historic photographs become digital memes",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Media, Culture & Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "39",
+        "journal_number": "8",
+        "journal_pages": "1210-1230",
+        "link": "https://doi.org/10.1177/0163443717690818",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Photography"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "e8a940f06a174f089d485d62bc0f6308": {
+        "id": "e8a940f06a174f089d485d62bc0f6308",
+        "authors": [
+            {
+                "lastname": "Johnson",
+                "firstname": "Mo"
+            }
+        ],
+        "year": "2017",
+        "article_name": "By Any Memes Necessary: This Art Exhibit Takes Feminist Internet Culture From URL To IRL",
+        "resource_type": "Article (Digital Magazine)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Bust",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://bust.com/arts/19045-meme-art-exhibit.html",
+        "subject": {
+            "topics": [
+                "Art",
+                "Feminism",
+                "Gender"
+            ],
+            "platform": "Instagram",
+            "place": ""
+        }
+    },
+    "ce36fc5757574f79b92e0af70382cc22": {
+        "id": "ce36fc5757574f79b92e0af70382cc22",
+        "authors": [
+            {
+                "lastname": "Voigts",
+                "firstname": "Eckhart"
+            }
+        ],
+        "year": "2017",
+        "article_name": "Memes and Recombinant Appropriation: Remix, Mashup, Parody\r\n",
+        "resource_type": "Book Chapter",
+        "book_bookname": "The Oxford Handbook of Adaptation Studies",
+        "book_bookeditor": "Thomas M. Leitch",
+        "publisher": "Oxford University Press",
+        "book_isbn": "",
+        "book_city": "New York",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "286-302",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Remix culture"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "53fa5f9c5615468f8f8279aa07c42720": {
+        "id": "53fa5f9c5615468f8f8279aa07c42720",
+        "authors": [
+            {
+                "lastname": "Voigts-Virchow",
+                "firstname": "Eckhart"
+            }
+        ],
+        "year": "2017",
+        "article_name": "\u2018Memes, GIFs, and Remix Culture: Compact Appropriation in Everyday Digital Life\u2019.\r\n",
+        "resource_type": "Book Chapter",
+        "book_bookname": "The Routledge Companion to Adaptation",
+        "book_bookeditor": "Dennis R. Cutchins, Katja Krebs, Eckart Voigts-Virchow",
+        "publisher": "Routledge",
+        "book_isbn": "",
+        "book_city": "New York",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "390-403",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Remix culture",
+                "GIFs"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "c4663848798e454b9a8784f2830301bc": {
+        "id": "c4663848798e454b9a8784f2830301bc",
+        "authors": [
+            {
+                "lastname": "Brantner",
+                "firstname": "Cornelia"
+            },
+            {
+                "lastname": "Lobinger",
+                "firstname": "Katharina"
+            },
+            {
+                "lastname": "Stehling",
+                "firstname": "Miriam"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Memes against Sexism? A Multi-Method Analysis of the Feminist Protest Hashtag #distractinglysexy and Its Resonance in the Mainstream News Media",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Convergence",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "26",
+        "journal_number": "3",
+        "journal_pages": "",
+        "link": "https://doi.org/10.1177/1354856519827804",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Protest",
+                "Resistance"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "5e4b285603ba4735aabab375e69b0e3c": {
+        "id": "5e4b285603ba4735aabab375e69b0e3c",
+        "authors": [
+            {
+                "lastname": "Hardesty",
+                "firstname": "Robby"
+            },
+            {
+                "lastname": "Linz",
+                "firstname": "Jess"
+            },
+            {
+                "lastname": "Secor",
+                "firstname": "Anna J."
+            }
+        ],
+        "year": "2019",
+        "article_name": "Walter Benja-Memes",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "GeoHumanities",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "5",
+        "journal_number": "2",
+        "journal_pages": "496-513",
+        "link": "https://doi.org/10.1080/2373566X.2019.1624188",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Walter Benjamin"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "a85baf7f8cdd4e8a9914fbbc3e9b63ce": {
+        "id": "a85baf7f8cdd4e8a9914fbbc3e9b63ce",
+        "authors": [
+            {
+                "lastname": "Aharoni",
+                "firstname": "Tali"
+            }
+        ],
+        "year": "2019",
+        "article_name": "When High and Pop Culture (Re)Mix: An Inquiry into the Memetic Transformations of Artwork",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "New Media & Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "21",
+        "journal_number": "10",
+        "journal_pages": "2283\u20132304",
+        "link": "https://doi.org/10.1177/1461444819845917.",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics",
+                "Remix culture"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "3cbbc780360144018874b583af7e5b44": {
+        "id": "3cbbc780360144018874b583af7e5b44",
+        "authors": [
+            {
+                "lastname": "Waters",
+                "firstname": "Angela"
+            }
+        ],
+        "year": "2019",
+        "article_name": "This Insider Meme Account Mercilessly Trolls the Art World: Artists, Collectors and Especially Gallery Interns Are Not Safe from the Satire of @jerrygogosian",
+        "resource_type": "Article (Digital Magazine)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Sleek-Mag",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://www.sleek-mag.com/article/jerry-gogosian/",
+        "subject": {
+            "topics": [
+                "Art",
+                ""
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "5c557fb0af464e22b00b3bb91e58e4d5": {
+        "id": "5c557fb0af464e22b00b3bb91e58e4d5",
+        "authors": [
+            {
+                "lastname": "Manovich",
+                "firstname": "Lev"
+            }
+        ],
+        "year": "2020",
+        "article_name": "Cultural Analytics",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "MIT Press",
+        "book_isbn": "",
+        "book_city": "Cambridge, Massachusetts",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "1a8eaa586c5548f29786a6eaff75e498": {
+        "id": "1a8eaa586c5548f29786a6eaff75e498",
+        "authors": [
+            {
+                "lastname": "Schonig",
+                "firstname": "Jordan"
+            }
+        ],
+        "year": "2020",
+        "article_name": "\"Liking\" as Creating: On Aesthetic Category Memes",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "New Media & Society ",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "22",
+        "journal_number": "1",
+        "journal_pages": "26-48",
+        "link": "https://doi.org/10.1177/1461444819855727.",
+        "subject": {
+            "topics": [
+                "Art",
+                "Aesthetics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "b83e79b6b548470980a8101787f5184c": {
+        "id": "b83e79b6b548470980a8101787f5184c",
+        "authors": [
+            {
+                "lastname": "Scavnicky",
+                "firstname": "Ryan"
+            }
+        ],
+        "year": "2020",
+        "article_name": "Memes Memes the Relatable Fruit",
+        "resource_type": "",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Pidgin, Princeton University School of Architecture",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "26",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Architecture",
+                ""
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "9398b1d0503b4256bbbe888b8aa23129": {
+        "id": "9398b1d0503b4256bbbe888b8aa23129",
+        "authors": [
+            {
+                "lastname": "Gerges",
+                "firstname": "Merray"
+            }
+        ],
+        "year": "2016",
+        "article_name": "GothShakira: High Priestess of Dank Feminist Memery",
+        "resource_type": "Interview",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Canadian Art",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://canadianart.ca/interviews/gothshakira-intersectional-feminist-memes/",
+        "subject": {
+            "topics": [
+                "Feminism",
+                ""
+            ],
+            "platform": "Instagram",
+            "place": ""
+        }
+    },
+    "8fbe49e0bfc84ea58015f1756f350135": {
+        "id": "8fbe49e0bfc84ea58015f1756f350135",
+        "authors": [
+            {
+                "lastname": "Harlow",
+                "firstname": "Summer"
+            },
+            {
+                "lastname": "Rowlett",
+                "firstname": "Jerrica Ty"
+            },
+            {
+                "lastname": "Huse",
+                "firstname": "Laura-Kate"
+            }
+        ],
+        "year": "2018",
+        "article_name": "\"Kim Davis be like\u2009\u2009\u2026\u2009\": a feminist critique of gender humor in online political memes",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Information, Communication & Society ",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "23",
+        "journal_number": "7",
+        "journal_pages": "1057-73",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Politics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "e44a84c0961649bc97003633e8b89724": {
+        "id": "e44a84c0961649bc97003633e8b89724",
+        "authors": [
+            {
+                "lastname": "Hockin-Boyers",
+                "firstname": "Hester"
+            },
+            {
+                "lastname": "Pope",
+                "firstname": "Stacey"
+            },
+            {
+                "lastname": "Kimberly",
+                "firstname": "Jamie"
+            }
+        ],
+        "year": "2020",
+        "article_name": "#gainingweightiscool: the use of transformation photos on Instagram among female weightlifters in recovery from eating disorders",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Qualitative Research in Sport, Exercise and Health",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "13",
+        "journal_number": "1",
+        "journal_pages": "94-112",
+        "link": "https://doi.org/10.1080/2159676X.2020.1836511",
+        "subject": {
+            "topics": [
+                "Feminism",
+                ""
+            ],
+            "platform": "Instagram",
+            "place": ""
+        }
+    },
+    "e39d2b177eed4e358cefb81dc7679c14": {
+        "id": "e39d2b177eed4e358cefb81dc7679c14",
+        "authors": [
+            {
+                "lastname": "Smith",
+                "firstname": "Christopher"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Weaponized iconoclasm in Internet memes featuring the expression \u2018Fake News'",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Discourse & Communication",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "13",
+        "journal_number": "3",
+        "journal_pages": "303-19",
+        "link": "https://doi.org/10.1177/1750481319835639",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics",
+                "Trolling and antagonism"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "8bb79d88833f4f24b9371b1e51487f1f": {
+        "id": "8bb79d88833f4f24b9371b1e51487f1f",
+        "authors": [
+            {
+                "lastname": "Kanai",
+                "firstname": "Akane"
+            }
+        ],
+        "year": "2016",
+        "article_name": "Sociality and Classification: Reading Gender, Race, and Class in a Humorous Meme",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Social Media + Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "4",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://doi.org/10.1177/2056305116672884",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Class",
+                "Identity"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "6e7a753236344a14902fda00da27d064": {
+        "id": "6e7a753236344a14902fda00da27d064",
+        "authors": [
+            {
+                "lastname": "Lagerwey",
+                "firstname": "Jorie"
+            },
+            {
+                "lastname": "Nygaard",
+                "firstname": "Taylor"
+            }
+        ],
+        "year": "2020",
+        "article_name": "Tiger King\u2019s Meme-Ification of White Grievance and the Normalization of Misogyny",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Communication, Culture and Critique",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://doi.org/10/ghp32v",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Misogyny",
+                "White Grievance"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "7a1806e4fbca4d24844a1558ebfb37df": {
+        "id": "7a1806e4fbca4d24844a1558ebfb37df",
+        "authors": [
+            {
+                "lastname": "Lind",
+                "firstname": "Rebecca Ann"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Race/Gender/Class/Media: Considering Diversity across Audiences, Content and Producers",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Routledge",
+        "book_isbn": "",
+        "book_city": "Abingdon, Oxon",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Race",
+                "Class"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "05da4fa345164d3a8743b64433c2bfb1": {
+        "id": "05da4fa345164d3a8743b64433c2bfb1",
+        "authors": [
+            {
+                "lastname": "Massanari",
+                "firstname": "Adrienne"
+            }
+        ],
+        "year": "2019",
+        "article_name": "\u201cCome for the Period Comics. Stay for the Cultural Awareness\u201d: Reclaiming the Troll Identity through Feminist Humor on Reddit\u2019s /r/TrollXChromosomes",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Feminist Media Studies",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "19",
+        "journal_number": "1",
+        "journal_pages": "19-37",
+        "link": "https://doi.org/10.1080/14680777.2017.1414863",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Trolling and antagonism"
+            ],
+            "platform": "Reddit",
+            "place": ""
+        }
+    },
+    "805c20e294554a90a03772a123127ed2": {
+        "id": "805c20e294554a90a03772a123127ed2",
+        "authors": [
+            {
+                "lastname": "Massanari",
+                "firstname": "Adrienne"
+            },
+            {
+                "lastname": "Chess",
+                "firstname": "Shira"
+            }
+        ],
+        "year": "2018",
+        "article_name": "Attack of the 50-foot social justice warrior: The discursive construction of SJW memes as monstrous feminine",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Feminist Media Studies",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "18",
+        "journal_number": "4",
+        "journal_pages": "525-42",
+        "link": "https://doi.org/10.1080/14680777.2018.1447333",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Social Justice Warrior",
+                "Politics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "70592a38723042fc97e71fcedc42036b": {
+        "id": "70592a38723042fc97e71fcedc42036b",
+        "authors": [
+            {
+                "lastname": "Merrill",
+                "firstname": "Lisa"
+            }
+        ],
+        "year": "1988",
+        "article_name": "Feminist Humour: Rebellious and Self-affirming",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Women's Studies",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "15",
+        "journal_number": "4",
+        "journal_pages": "271-80",
+        "link": "https://doi.org/10.1080/00497878.1988.9978732",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Protest",
+                "Resistance"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "0d980fc4bf5044639ab7f7a9e4d71b4d": {
+        "id": "0d980fc4bf5044639ab7f7a9e4d71b4d",
+        "authors": [
+            {
+                "lastname": "Miltner",
+                "firstname": "Kate"
+            }
+        ],
+        "year": "2014",
+        "article_name": "\u201cThere\u2019s No Place for Lulz on LOLCats\u201d: The Role of Genre, Gender, and Group Identity in the Interpretation and Enjoyment of an Internet Meme",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "First Monday",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "19",
+        "journal_number": "8",
+        "journal_pages": "",
+        "link": "https://doi.org/10.5210/fm.v19i8.5391",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "LOLCats",
+                "Identity"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "83653ee4a78f40eca3ba8a1a1fc74033": {
+        "id": "83653ee4a78f40eca3ba8a1a1fc74033",
+        "authors": [
+            {
+                "lastname": "Negra",
+                "firstname": "Diane"
+            },
+            {
+                "lastname": "Leyda",
+                "firstname": "Julia"
+            }
+        ],
+        "year": "2020",
+        "article_name": "Querying \u2018Karen\u2019: The Rise of the Angry White Woman",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "European Journal of Cultural Studies",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://doi.org/10/gg8t8r",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Karen"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "18d0cfdf7668481a863152846cd1a60d": {
+        "id": "18d0cfdf7668481a863152846cd1a60d",
+        "authors": [
+            {
+                "lastname": "Peck",
+                "firstname": "Andrew"
+            },
+            {
+                "lastname": "Good",
+                "firstname": "Katie Day"
+            }
+        ],
+        "year": "2020",
+        "article_name": "When Paper Goes Viral: Handmade Signs as Vernacular Materiality in Digital Space",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "International Journal of Communication",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "14",
+        "journal_number": "23",
+        "journal_pages": "",
+        "link": "https://ijoc.org/index.php/ijoc/article/view/10965",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Analog memes"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "c4f6f8064df74263a2a4245c3ca268c8": {
+        "id": "c4f6f8064df74263a2a4245c3ca268c8",
+        "authors": [
+            {
+                "lastname": "Rentschler",
+                "firstname": "Carrie"
+            },
+            {
+                "lastname": "Thrift",
+                "firstname": "Samantha C."
+            }
+        ],
+        "year": "2015",
+        "article_name": "Doing Feminism in the Network: Networked Laughter and the \u2018Binders Full of Women\u2019 Meme",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Feminist Theory",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "16",
+        "journal_number": "3",
+        "journal_pages": "329-59",
+        "link": "https://doi.org/10/f7z3wh",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "85564d875e2046d09d3a4919909df0fc": {
+        "id": "85564d875e2046d09d3a4919909df0fc",
+        "authors": [
+            {
+                "lastname": "Retallack",
+                "firstname": "Hanna"
+            },
+            {
+                "lastname": "Ringrose",
+                "firstname": "Jessica"
+            },
+            {
+                "lastname": "Lawrence",
+                "firstname": "Emilie"
+            }
+        ],
+        "year": "2016",
+        "article_name": "\u201cFuck Your Body Image\u201d: Teen Girls\u2019 Twitter and Instagram Feminism in and Around School",
+        "resource_type": "Book Chapter",
+        "book_bookname": "Learning Bodies",
+        "book_bookeditor": "Julia Coffey, Shelley Budgeon, Helen Cahil",
+        "publisher": "Springer",
+        "book_isbn": "",
+        "book_city": "Singapore",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "85-103",
+        "link": "https://doi.org/10.1007/978-981-10-0306-6_6",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Body image"
+            ],
+            "platform": "Instagram",
+            "place": ""
+        }
+    },
+    "b8928522612e40639c555d1c03c748e3": {
+        "id": "b8928522612e40639c555d1c03c748e3",
+        "authors": [
+            {
+                "lastname": "Shifman",
+                "firstname": "Limor"
+            },
+            {
+                "lastname": "Lemish",
+                "firstname": "Dafna"
+            }
+        ],
+        "year": "2011",
+        "article_name": "\u201cMars and Venus\u201d in Virtual Space: Post-Feminist Humor and the Internet",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Critical Studies in Media Communication",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "28",
+        "journal_number": "3",
+        "journal_pages": "253-73",
+        "link": "https://doi.org/10.1080/15295036.2010.522589",
+        "subject": {
+            "topics": [
+                "Feminism",
+                "Gender",
+                "Post-feminism"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "0d25eb7102da4932a20a88a12a7bc44e": {
+        "id": "0d25eb7102da4932a20a88a12a7bc44e",
+        "authors": [
+            {
+                "lastname": "Ask",
+                "firstname": "Kristine"
+            },
+            {
+                "lastname": "Abidin",
+                "firstname": "Crystal"
+            }
+        ],
+        "year": "2018",
+        "article_name": "\u2018My Life Is a Mess: Self-Deprecating Relatability and Collective Identities in the Memification of Student Issues",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Information, Communication & Society ",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "21",
+        "journal_number": "6",
+        "journal_pages": "834-50",
+        "link": "https://doi.org/10.1080/1369118X.2018.1437204",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Students",
+                "Self deprecating"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "186b7443e0a447dd84eb7c5d130090f3": {
+        "id": "186b7443e0a447dd84eb7c5d130090f3",
+        "authors": [
+            {
+                "lastname": "Boxman-Shabtai",
+                "firstname": "Lillian"
+            },
+            {
+                "lastname": "Shifman",
+                "firstname": "Limor"
+            }
+        ],
+        "year": "2015",
+        "article_name": "When Ethnic Humour Goes Digital",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "New Media & Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "17",
+        "journal_number": "4",
+        "journal_pages": "520-39",
+        "link": "https://doi.org/10.1177/1461444813506972",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Ethnic humour"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "beccc7b0fc984efd9c112c2fd3f88fe6": {
+        "id": "beccc7b0fc984efd9c112c2fd3f88fe6",
+        "authors": [
+            {
+                "lastname": "Burton",
+                "firstname": "Julian"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Look at Us, We Have Anxiety: Youth, Memes, and the Power of Online Cultural Politic",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Journal of Childhood Studies",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "3-17",
+        "link": "https://doi.org/10/gf8762",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Youth",
+                "Mental health"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "fdd20a8e651849b68e76ec704e33b3f7": {
+        "id": "fdd20a8e651849b68e76ec704e33b3f7",
+        "authors": [
+            {
+                "lastname": "DeCook",
+                "firstname": "Julia R."
+            }
+        ],
+        "year": "2018",
+        "article_name": "Memes and symbolic violence: #proudboys and the use of memes for propaganda and the construction of collective identity",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Learning, Media and Technology",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "43",
+        "journal_number": "4",
+        "journal_pages": "485-504",
+        "link": "https://doi.org/10.1080/17439884.2018.1544149",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Far-right",
+                "Propoganda",
+                "Rhetoric"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "5ed8e77fccad469784763cf2a6e2a510": {
+        "id": "5ed8e77fccad469784763cf2a6e2a510",
+        "authors": [
+            {
+                "lastname": "Denisova",
+                "firstname": "Anastasia"
+            }
+        ],
+        "year": "2020",
+        "article_name": "Internet Memes and Society: Social Cultural, and Political Contexts",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Routledge",
+        "book_isbn": "",
+        "book_city": "New York",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://doi.org/10.4324/9780429469404",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Memes as Capital"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "edb7ef4905dd4b22a1768e0edc7b89a8": {
+        "id": "edb7ef4905dd4b22a1768e0edc7b89a8",
+        "authors": [
+            {
+                "lastname": "Dundes",
+                "firstname": "Alan"
+            }
+        ],
+        "year": "1987",
+        "article_name": "Cracking Jokes: Studies of Sick Humor Cycles & Stereotypes",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Ten Speed Press",
+        "book_isbn": "",
+        "book_city": "Berkeley, California",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Sick humour"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "96967066d6b54156b3d6973ef3b1ee01": {
+        "id": "96967066d6b54156b3d6973ef3b1ee01",
+        "authors": [
+            {
+                "lastname": "Eschler",
+                "firstname": "Jordan"
+            },
+            {
+                "lastname": "Menking",
+                "firstname": "Amanda"
+            }
+        ],
+        "year": "2018",
+        "article_name": "\"No Prejudice Here\u201d: Examining Social Identity Work in Starter Pack Memes",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Social Media + Society ",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "4",
+        "journal_number": "2",
+        "journal_pages": "",
+        "link": "https://doi.org/10.1177/2056305118768811",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Memes as Capital",
+                "Starter pack"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "c0b3f532e29b4171b804945dd309a8f9": {
+        "id": "c0b3f532e29b4171b804945dd309a8f9",
+        "authors": [
+            {
+                "lastname": "Frazer",
+                "firstname": "Ryan"
+            },
+            {
+                "lastname": "Carlson",
+                "firstname": "Bronwyn"
+            }
+        ],
+        "year": "2017",
+        "article_name": "Indigenous Memes and the Invention of a People",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Social Media + Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "3",
+        "journal_number": "4",
+        "journal_pages": "",
+        "link": "https://doi.org/10.1177/2056305117738993",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Indigenous",
+                "Politics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "69c54e6ead6047e0a0624c182bf51dab": {
+        "id": "69c54e6ead6047e0a0624c182bf51dab",
+        "authors": [
+            {
+                "lastname": "Gal",
+                "firstname": "Noam"
+            },
+            {
+                "lastname": "Shifman",
+                "firstname": "Limor"
+            },
+            {
+                "lastname": "Kampf",
+                "firstname": "Zohar"
+            }
+        ],
+        "year": "2016",
+        "article_name": "\u201cIt Gets Better\u201d: Internet Memes and the Construction of Collective Identity",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "New Media & Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "18",
+        "journal_number": "8",
+        "journal_pages": "1698-1714",
+        "link": "https://doi.org/10.1177/1461444814568784",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Mental health",
+                "LGBTQ+"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "83308060bf7c49729ce0ff28fb2ea5c7": {
+        "id": "83308060bf7c49729ce0ff28fb2ea5c7",
+        "authors": [
+            {
+                "lastname": "Ging",
+                "firstname": "Debbie"
+            },
+            {
+                "lastname": "Garvey",
+                "firstname": "Sarah"
+            }
+        ],
+        "year": "2018",
+        "article_name": "\u201cWritten in These Scars Are the Stories I Can\u2019t Explain\u201d: A Content Analysis of pro-Ana and Thinspiration Image Sharing on Instagram",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "New Media & Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "20",
+        "journal_number": "3",
+        "journal_pages": "1181-1200",
+        "link": "https://doi.org/10.1177/1461444816687288",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Mental health",
+                "Pro-ana"
+            ],
+            "platform": "Instagram",
+            "place": ""
+        }
+    },
+    "607e991691c247af888544bf892da345": {
+        "id": "607e991691c247af888544bf892da345",
+        "authors": [
+            {
+                "lastname": "Guenther",
+                "firstname": "Lars"
+            },
+            {
+                "lastname": "Ruhmann",
+                "firstname": "Georg"
+            },
+            {
+                "lastname": "Bischoff",
+                "firstname": "Jenny"
+            },
+            {
+                "lastname": "Penzel",
+                "firstname": "Tessa"
+            },
+            {
+                "lastname": "Weber",
+                "firstname": "Antonia"
+            }
+        ],
+        "year": "2020",
+        "article_name": "Strategic Framing and Social Media Engagement: Analyzing Memes Posted by the German Identitarian Movement on Facebook",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Social Media + Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "6",
+        "journal_number": "1",
+        "journal_pages": "",
+        "link": "https://doi.org/10.1177/2056305119898777",
+        "subject": {
+            "topics": [
+                "Identity",
+                ""
+            ],
+            "platform": "Facebook",
+            "place": "Germany"
+        }
+    },
+    "a603c0a4d6d54f12812f59b34f229494": {
+        "id": "a603c0a4d6d54f12812f59b34f229494",
+        "authors": [
+            {
+                "lastname": "Hakok\u00f6ng\u00e4s",
+                "firstname": "Eemeli"
+            },
+            {
+                "lastname": "Malmesvaara",
+                "firstname": "Otto"
+            },
+            {
+                "lastname": "Sakki",
+                "firstname": "Inari"
+            }
+        ],
+        "year": "2020",
+        "article_name": "Persuasion through bitter humor: Multimodal discourse analysis of rhetoric in internet memes of two far-right groups in Finland",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Social Media + Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "1-11",
+        "link": "https://doi.org/10.1177/2056305120921575",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Far-right",
+                "Rhetoric",
+                "Politics"
+            ],
+            "platform": "",
+            "place": "Finland"
+        }
+    },
+    "2da139cc141c46dabac9f5d58bfce8fc": {
+        "id": "2da139cc141c46dabac9f5d58bfce8fc",
+        "authors": [
+            {
+                "lastname": "Harvie",
+                "firstname": "David"
+            },
+            {
+                "lastname": "Milburn",
+                "firstname": "Keri"
+            }
+        ],
+        "year": "2018",
+        "article_name": "On the Uses of Fairy Dust: Contagion, Sorcery and the Crafting of Other Worlds",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Culture and Organization",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "24",
+        "journal_number": "3",
+        "journal_pages": "179-95",
+        "link": "https://doi.org/10/gf8wfx",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Mimetics",
+                "Capitalism"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "762dfd272934497f8ed489971cd0ac35": {
+        "id": "762dfd272934497f8ed489971cd0ac35",
+        "authors": [
+            {
+                "lastname": "Jiang",
+                "firstname": "Yaqian"
+            },
+            {
+                "lastname": "V\u00e1squez",
+                "firstname": "Camilla"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Exploring Local Meaning-Making Resources: A Case Study of a Popular Chinese Internet Meme (Biaoqingbao)",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Internet Pragmatics",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "3",
+        "journal_number": "2",
+        "journal_pages": "260-82",
+        "link": "https://doi.org/10/ggdjxs",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Meaning-making"
+            ],
+            "platform": "",
+            "place": "China"
+        }
+    },
+    "4594f2e51cc34fd19c859721e8bb7741": {
+        "id": "4594f2e51cc34fd19c859721e8bb7741",
+        "authors": [
+            {
+                "lastname": "Literat",
+                "firstname": "Loana"
+            },
+            {
+                "lastname": "Kligler-Vilenchik",
+                "firstname": "Neta"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Youth Collective Political Expression on Social Media: The Role of Affordances and Memetic Dimensions for Voicing Political Views\u2019",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "New Media & Society ",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "21",
+        "journal_number": "9",
+        "journal_pages": "1988-2009",
+        "link": "https://doi.org/10.1177/1461444819837571",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Memes as Capital",
+                "Politics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "19874f860c114b589d28e99494aec65d": {
+        "id": "19874f860c114b589d28e99494aec65d",
+        "authors": [
+            {
+                "lastname": "Oakley",
+                "firstname": "Abigail"
+            }
+        ],
+        "year": "2016",
+        "article_name": "Disturbing Hegemonic Discourse: Nonbinary Gender and Sexual Orientation Labeling on Tumblr",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Social Media + Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "2",
+        "journal_number": "3",
+        "journal_pages": "",
+        "link": "https://doi.org/10.1177/2056305116664217",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Feminism",
+                "Gender"
+            ],
+            "platform": "Tumblr",
+            "place": ""
+        }
+    },
+    "4ceb3e80a9754abda4649257157c5b43": {
+        "id": "4ceb3e80a9754abda4649257157c5b43",
+        "authors": [
+            {
+                "lastname": "Penney",
+                "firstname": "Joel"
+            }
+        ],
+        "year": "2019",
+        "article_name": "\u2018It\u2019s So Hard Not to Be Funny in This Situation\u2019: Memes and Humor in U.S. Youth Online Political Expression.",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Television & New Media",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://doi.org/10/ggcvgd",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Rhetoric",
+                "Politics"
+            ],
+            "platform": "",
+            "place": "US"
+        }
+    },
+    "9a67b02d5e964f168168998a855e8040": {
+        "id": "9a67b02d5e964f168168998a855e8040",
+        "authors": [
+            {
+                "lastname": "Perreault",
+                "firstname": "Gregory"
+            },
+            {
+                "lastname": "Ferrucci",
+                "firstname": "Patrick"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Punishing Brady, redeeming Brady: a fantasy theme analysis of memes from the 2015 Deflategate controversy",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Atlantic Journal of Communication",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "27",
+        "journal_number": "3",
+        "journal_pages": "153-68",
+        "link": "https://doi.org/10.1080/15456870.2019.1610761",
+        "subject": {
+            "topics": [
+                "Identity",
+                ""
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "93c035b6157e4171b20325f5dd96efab": {
+        "id": "93c035b6157e4171b20325f5dd96efab",
+        "authors": [
+            {
+                "lastname": "Proch\u00e1zka",
+                "firstname": "Ond\u0159ej"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Chronotopic Representations as an Effect of Individuation: The Case of the European Migrant Crisis",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Language in Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "1-27",
+        "link": "https://doi.org/10/ggc3qp",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Migration"
+            ],
+            "platform": "",
+            "place": "Europe"
+        }
+    },
+    "44f2fe6435194feb865ebad86395fad5": {
+        "id": "44f2fe6435194feb865ebad86395fad5",
+        "authors": [
+            {
+                "lastname": "Proch\u00e1zka",
+                "firstname": "Ond\u0159ej"
+            }
+        ],
+        "year": "2018",
+        "article_name": "A Chronotopic Approach to Identity Performance in a Facebook Meme Page",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Discourse, Context & Media ",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "25",
+        "journal_number": "",
+        "journal_pages": "78-87",
+        "link": "https://doi.org/10/gf8wg5",
+        "subject": {
+            "topics": [
+                "Identity",
+                ""
+            ],
+            "platform": "Facebook",
+            "place": ""
+        }
+    },
+    "d7cc170423c9499eaaeef61520b88e73": {
+        "id": "d7cc170423c9499eaaeef61520b88e73",
+        "authors": [
+            {
+                "lastname": "Sobande",
+                "firstname": "Francesca"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Memes, Digital Remix Culture and (Re)Mediating British Politics and Public Life",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "IPPR Progressive Review",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "26",
+        "journal_number": "2",
+        "journal_pages": "151-60",
+        "link": "https://doi.org/10.1111/newe.12155",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Politics",
+                "Remix culture"
+            ],
+            "platform": "",
+            "place": "UK"
+        }
+    },
+    "7fca2df86f4c45ddb07d3244bfa4c17b": {
+        "id": "7fca2df86f4c45ddb07d3244bfa4c17b",
+        "authors": [
+            {
+                "lastname": "Tiidenberg",
+                "firstname": "Katrin"
+            },
+            {
+                "lastname": "Whelan",
+                "firstname": "Andrew"
+            }
+        ],
+        "year": "2017",
+        "article_name": "Sick Bunnies and Pocket Dumps: \u2018Not-Selfies\u2019 and the Genre of Self-Representation",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Popular Communication",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "15",
+        "journal_number": "2",
+        "journal_pages": "141-53",
+        "link": " https://doi.org/10/ggbs47",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Selfies",
+                "Genres"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "985b83ae03144e78948a585af673f186": {
+        "id": "985b83ae03144e78948a585af673f186",
+        "authors": [
+            {
+                "lastname": "Tuters",
+                "firstname": "Marc"
+            },
+            {
+                "lastname": "Hagen",
+                "firstname": "Sal"
+            }
+        ],
+        "year": "2020",
+        "article_name": "(((They))) Rule: Memetic Antagonism and Nebulous Othering on 4chan",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "New Media & Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "22",
+        "journal_number": "12",
+        "journal_pages": "2218-37",
+        "link": "https://doi.org/10.1177/1461444819888746",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Trolling and antagonism"
+            ],
+            "platform": "4chan",
+            "place": ""
+        }
+    },
+    "55a4723cd0f9438db3b948d994f8eb8c": {
+        "id": "55a4723cd0f9438db3b948d994f8eb8c",
+        "authors": [
+            {
+                "lastname": "Varis",
+                "firstname": "Piia"
+            },
+            {
+                "lastname": "Blommaert",
+                "firstname": "Jan"
+            }
+        ],
+        "year": "2015",
+        "article_name": "Conviviality and Collectives on Social Media: Virality, Memes, and New Social Structures",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Multilingual Margins: A Journal of Multilingualism from the Periphery",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "2",
+        "journal_number": "1",
+        "journal_pages": "31-45",
+        "link": "https://doi.org/10/ggff7p",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Virality"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "efba60e5026f43f786d0fa35c1976fa3": {
+        "id": "efba60e5026f43f786d0fa35c1976fa3",
+        "authors": [
+            {
+                "lastname": "Wiggins",
+                "firstname": "Bradley E."
+            }
+        ],
+        "year": "2020",
+        "article_name": "Boogaloo and Civil War 2: Memetic Antagonism in Expressions of Covert Activism\u2019",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "New Media & Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://doi.org/10.1177/1461444820945317",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Trolling and antagonism",
+                "Politics"
+            ],
+            "platform": "",
+            "place": "US"
+        }
+    },
+    "ee653ba974de4573872f975dabec5022": {
+        "id": "ee653ba974de4573872f975dabec5022",
+        "authors": [
+            {
+                "lastname": "Williams",
+                "firstname": "Amanda"
+            },
+            {
+                "lastname": "Oliver",
+                "firstname": "Clio"
+            },
+            {
+                "lastname": "Aumer",
+                "firstname": "Katherine"
+            },
+            {
+                "lastname": "Meyers",
+                "firstname": "Chanel"
+            }
+        ],
+        "year": "2016",
+        "article_name": "Racial microaggressions and perceptions of internet memes",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Computers in Human Behaviour",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "63",
+        "journal_number": "",
+        "journal_pages": "424-34",
+        "link": "http://dx.doi.org/10.1016/j.chb.2016.05.067",
+        "subject": {
+            "topics": [
+                "Identity",
+                "Race"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "e99c18f03db346a586d32829d8f079a7": {
+        "id": "e99c18f03db346a586d32829d8f079a7",
+        "authors": [
+            {
+                "lastname": "Yus",
+                "firstname": "Francisco"
+            }
+        ],
+        "year": "2018",
+        "article_name": "Identity-Related Issues in Meme Communication",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Internet Pragmatics",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "1",
+        "journal_number": "1",
+        "journal_pages": "113-33",
+        "link": "https://doi.org/10/gf8wff",
+        "subject": {
+            "topics": [
+                "Identity",
+                ""
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "b17864ea18444852b4f1b64648bf768b": {
+        "id": "b17864ea18444852b4f1b64648bf768b",
+        "authors": [
+            {
+                "lastname": "Bourlai",
+                "firstname": "E."
+            },
+            {
+                "lastname": "Herring",
+                "firstname": "S."
+            }
+        ],
+        "year": "2014",
+        "article_name": "Multimodal Communication on Tumblr: \u201c I Have So Many Feels !\"",
+        "resource_type": "Conference Proceedings",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Proceedings of the 2014 ACM Conference on Web Scienc",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "171-75",
+        "link": "https://doi.org/10.1145/2615569.2615697",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "Tumblr",
+            "place": ""
+        }
+    },
+    "5acc1d608331499aa4d074fe4c7d709c": {
+        "id": "5acc1d608331499aa4d074fe4c7d709c",
+        "authors": [
+            {
+                "lastname": "Cannizzaro",
+                "firstname": "Sara"
+            }
+        ],
+        "year": "2016",
+        "article_name": "Internet Memes as Internet Signs: A Semiotic View of Digital Culture",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Sign Systems Studies",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "44",
+        "journal_number": "4",
+        "journal_pages": "562",
+        "link": "https://doi.org/10.12697/SSS.2016.44.4.05",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "f9c53fa48ab34ff3895c8c63deb92aa6": {
+        "id": "f9c53fa48ab34ff3895c8c63deb92aa6",
+        "authors": [
+            {
+                "lastname": "Davison",
+                "firstname": "Patrick"
+            }
+        ],
+        "year": "2012",
+        "article_name": "The Language of Internet Memes",
+        "resource_type": "Book Chapter",
+        "book_bookname": "The Social Media Reader",
+        "book_bookeditor": "Michael Mandiberg",
+        "publisher": "New York University Press",
+        "book_isbn": "",
+        "book_city": "New York",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "120-34",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "91eaddc15f634641b038d6cd38a4a2c9": {
+        "id": "91eaddc15f634641b038d6cd38a4a2c9",
+        "authors": [
+            {
+                "lastname": "Diedrichsen",
+                "firstname": "Elke"
+            }
+        ],
+        "year": "2013",
+        "article_name": "Constructions as Memes\u2013Interactional Function as Cultural Convention beyond the Words.' In Beyond Words : Content, Context, and Inference, edited by Frank Liedtke and Cornelia Schulze, ",
+        "resource_type": "Book Chapter",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Mouton Series on Pragmatics",
+        "book_isbn": "",
+        "book_city": "Boston",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "283-305",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "c402f0e2761341e8b327bbeb3e629024": {
+        "id": "c402f0e2761341e8b327bbeb3e629024",
+        "authors": [
+            {
+                "lastname": "Diedrichsen",
+                "firstname": "Elke"
+            }
+        ],
+        "year": "2018",
+        "article_name": "Cognitive Mechanisms and Emergent Grammatical Features in Internet Memes",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Linguistics Beyond and Within",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "4",
+        "journal_number": "",
+        "journal_pages": "22-37",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "f51cad42fed1472fbf46b3ecc98a16e5": {
+        "id": "f51cad42fed1472fbf46b3ecc98a16e5",
+        "authors": [
+            {
+                "lastname": "Diedrichsen",
+                "firstname": "Elke"
+            }
+        ],
+        "year": "2019",
+        "article_name": "On the Interaction of Core and Emergent Common Ground in Internet Memes",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Internet Pragmatics",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "3",
+        "journal_number": "2",
+        "journal_pages": "223-59",
+        "link": "https://doi.org/10.1075/ip.00033.die",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "f8e97c06380e4ba3b7eae86e3ae4cb82": {
+        "id": "f8e97c06380e4ba3b7eae86e3ae4cb82",
+        "authors": [
+            {
+                "lastname": "Fomin",
+                "firstname": "Ivan"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Memes, Genes, and Signs: Semiotics in the Conceptual Interface of Evolutionary Biology and Memetics",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Semiotica",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "230",
+        "journal_number": "",
+        "journal_pages": "327-40",
+        "link": "https://doi.org/10/gf8wjr",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "0465bc2662bb457aa2874da5e192f2ab": {
+        "id": "0465bc2662bb457aa2874da5e192f2ab",
+        "authors": [
+            {
+                "lastname": "Huntington",
+                "firstname": "Heidi E."
+            }
+        ],
+        "year": "2013",
+        "article_name": "Subversive Memes: Internet Memes as a Form of Visual Rhetoric",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "AoIR Selected Papers of Internet Research",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://spir.aoir.org/ojs/index.php/spir/article/view/8886",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics",
+                "Rhetoric"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "ba5176167ab14e59a4a79e28425f9526": {
+        "id": "ba5176167ab14e59a4a79e28425f9526",
+        "authors": [
+            {
+                "lastname": "Katz",
+                "firstname": "Yuval"
+            },
+            {
+                "lastname": "Shifman",
+                "firstname": "Limor"
+            }
+        ],
+        "year": "2017",
+        "article_name": "Making Sense? The Structure and Meanings of Digital Memetic Nonsense",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Information, Communication & Society ",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "20",
+        "journal_number": "6",
+        "journal_pages": "825-42",
+        "link": "https://doi.org/10.1080/1369118X.2017.1291702",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "5488118b353342a2bba0940c2294bc36": {
+        "id": "5488118b353342a2bba0940c2294bc36",
+        "authors": [
+            {
+                "lastname": "Kilpinen",
+                "firstname": "Erkki"
+            }
+        ],
+        "year": "2008",
+        "article_name": "Memes versus Signs: On the Use of Meaning Concepts about Nature and Culture",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Semiotica",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "171",
+        "journal_number": "",
+        "journal_pages": "215-237",
+        "link": "https://doi.org/10/bpdw2f",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "c2aa7a48484a4fe995787e7cae369d66": {
+        "id": "c2aa7a48484a4fe995787e7cae369d66",
+        "authors": [
+            {
+                "lastname": "Leskovec",
+                "firstname": "Jure"
+            },
+            {
+                "lastname": "Backstorm",
+                "firstname": "Lars"
+            },
+            {
+                "lastname": "Kleinberg",
+                "firstname": "Jon"
+            }
+        ],
+        "year": "2009",
+        "article_name": "Meme-Tracking and the Dynamics of the News Cycle",
+        "resource_type": "Conference Proceedings",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+        "book_isbn": "",
+        "book_city": "New York",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "497-506",
+        "link": "https://doi.org/10/dp59g8",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "fd59be6574d74bd88f37ae0b1e53d089": {
+        "id": "fd59be6574d74bd88f37ae0b1e53d089",
+        "authors": [
+            {
+                "lastname": "Matley",
+                "firstname": "David"
+            }
+        ],
+        "year": "2018",
+        "article_name": "\u2018This Is NOT a #humblebrag, This Is Just a #brag\u2019: The Pragmatics of Self-Praise, Hashtags and Politeness in Instagram Posts",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Discourse, Context & Media ",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "22",
+        "journal_number": "",
+        "journal_pages": "30-8",
+        "link": "https://doi.org/10/gdcbbq",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics",
+                "Memes as Capital",
+                "Hashtags"
+            ],
+            "platform": "Instagram",
+            "place": ""
+        }
+    },
+    "58a1c27368654135b95c3e352fdf441b": {
+        "id": "58a1c27368654135b95c3e352fdf441b",
+        "authors": [
+            {
+                "lastname": "Nissenbaum",
+                "firstname": "Asaf"
+            },
+            {
+                "lastname": "Shifman ",
+                "firstname": "Limor"
+            }
+        ],
+        "year": "2018",
+        "article_name": "Meme Templates as Expressive Repertoires in a Globalizing World: A Cross-Linguistic Study",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Journal of Computer-Mediated Communication",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "23",
+        "journal_number": "5",
+        "journal_pages": "294-310",
+        "link": "https://doi.org/10.1093/jcmc/zmy016",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics",
+                "Templates"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "e0f0ef9825cc47a29834783b7e12b7cb": {
+        "id": "e0f0ef9825cc47a29834783b7e12b7cb",
+        "authors": [
+            {
+                "lastname": "Seta",
+                "firstname": "Gabriele De"
+            }
+        ],
+        "year": "2016",
+        "article_name": "Neither Meme nor Viral: The Circulationist Semiotics of Vernacular Content",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Lexia: Rivista Di Semiotica",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://doi.org/10.4399/978882550315926",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "3e0af1236ddd440db9e0067c228561c6": {
+        "id": "3e0af1236ddd440db9e0067c228561c6",
+        "authors": [
+            {
+                "lastname": "West",
+                "firstname": "Joel"
+            }
+        ],
+        "year": "2020",
+        "article_name": "The Selfish Meme: Dawkins, Peirce, Freud",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Semiotica",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://doi.org/10/ghgchn",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "e0dd210124f341ecb29a5a86d037a229": {
+        "id": "e0dd210124f341ecb29a5a86d037a229",
+        "authors": [
+            {
+                "lastname": "Yus",
+                "firstname": "Francisco"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Multimodality in Memes: A Cyberpragmatic Approach",
+        "resource_type": "Book Chapter",
+        "book_bookname": "Analyzing Digital Discourse: New Insights and Future Directions",
+        "book_bookeditor": "Patricia Bou-Franch, Pilar Garc\u00e9s-Conejos Blitvich",
+        "publisher": "Springer International Publishing",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "205-31",
+        "link": "https://doi.org/10.1007/978-3-319-92663-6_4",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "70ec50dbaecb4c8299e72ac6545adebd": {
+        "id": "70ec50dbaecb4c8299e72ac6545adebd",
+        "authors": [
+            {
+                "lastname": "Yus",
+                "firstname": "Francisco"
+            }
+        ],
+        "year": "2018",
+        "article_name": "Positive Non-Humorous Effects of Humor on the Internet",
+        "resource_type": "Book Chapter",
+        "book_bookname": "The Dynamics of Interactional Humor: Creating and negotiating humor in everyday encounters",
+        "book_bookeditor": "Villy Tsakona, Jan Chovane",
+        "publisher": "John Benjamins Publishing Company",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "283-304",
+        "link": "https://doi.org/10.1075/thr.7",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "3c107c76a8ce4d649516a723f09f6fd1": {
+        "id": "3c107c76a8ce4d649516a723f09f6fd1",
+        "authors": [
+            {
+                "lastname": "Yus",
+                "firstname": "Francisco"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Pragmatics of Humour in Memes in Spanish",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Spanish in Context",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "18",
+        "journal_number": "1",
+        "journal_pages": "113-35",
+        "link": "https://doi.org/10.1075/sic.00070.yus",
+        "subject": {
+            "topics": [
+                "Linguistics",
+                "Semiotics"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "69e2a2c032b2448f8a0a4750f64e0208": {
+        "id": "69e2a2c032b2448f8a0a4750f64e0208",
+        "authors": [
+            {
+                "lastname": "Benaim",
+                "firstname": "Mickael"
+            }
+        ],
+        "year": "2018",
+        "article_name": "From Symbolic Values to Symbolic Innovation: Internet-Memes and Innovation",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Research Policy",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "47",
+        "journal_number": "5",
+        "journal_pages": "901-10",
+        "link": "https://doi.org/10/gdn35z",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                ""
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "9121ba2dde914ed985401031b8778f03": {
+        "id": "9121ba2dde914ed985401031b8778f03",
+        "authors": [
+            {
+                "lastname": "Brodie",
+                "firstname": "Richard"
+            }
+        ],
+        "year": "2009",
+        "article_name": "Virus of the Mind: The New Science of the Meme",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Hay House",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                ""
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "06ea6b863ea840dbb625f6a8d29c5985": {
+        "id": "06ea6b863ea840dbb625f6a8d29c5985",
+        "authors": [
+            {
+                "lastname": "Brubaker",
+                "firstname": "Pamela Jo"
+            },
+            {
+                "lastname": "Church",
+                "firstname": "Scott Haden"
+            },
+            {
+                "lastname": "Hansen",
+                "firstname": "Jared"
+            },
+            {
+                "lastname": "Pelham",
+                "firstname": "Steven"
+            },
+            {
+                "lastname": "Ostler",
+                "firstname": "Alison"
+            }
+        ],
+        "year": "2018",
+        "article_name": "One Does Not Simply Meme about Organizations: Exploring the Content Creation Strategies of User-Generated Memes on Imgur",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Public Relations Review",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "44",
+        "journal_number": "5",
+        "journal_pages": "741-51",
+        "link": "https://doi.org/10/gf8wfw",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                ""
+            ],
+            "platform": "Imgur",
+            "place": ""
+        }
+    },
+    "7c4beda3a8c64da6b5fd41a2077d6121": {
+        "id": "7c4beda3a8c64da6b5fd41a2077d6121",
+        "authors": [
+            {
+                "lastname": "Castella",
+                "firstname": "Tom De"
+            },
+            {
+                "lastname": "Brown",
+                "firstname": "Virginia"
+            }
+        ],
+        "year": "2011",
+        "article_name": "Trolling: Who Does It and Why?",
+        "resource_type": "Article (News)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "BBC",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://www.bbc.com/news/magazine-14898564",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                "Trolling and antagonism"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "9c3d9b3e1eb24f42b641a8657bf7e7c2": {
+        "id": "9c3d9b3e1eb24f42b641a8657bf7e7c2",
+        "authors": [
+            {
+                "lastname": "Couldry",
+                "firstname": "Nick"
+            },
+            {
+                "lastname": "Mejias",
+                "firstname": "Ulises Ali"
+            }
+        ],
+        "year": "2019",
+        "article_name": "The Costs of Connection: How Data Is Colonizing Human Life and Appropriating It for Capitalism",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Stanford University Press",
+        "book_isbn": "",
+        "book_city": "Stanford, California",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                "Capitalism"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "3f75e2a1e2e048e990242698e56f28cb": {
+        "id": "3f75e2a1e2e048e990242698e56f28cb",
+        "authors": [
+            {
+                "lastname": "Jensen",
+                "firstname": "Minna S."
+            },
+            {
+                "lastname": "Neumayer",
+                "firstname": "Christina"
+            },
+            {
+                "lastname": "Rossi",
+                "firstname": "Luca"
+            }
+        ],
+        "year": "2020",
+        "article_name": "\u201cBrussels Will Land on Its Feet like a Cat\u201d: Motivations for Memefying #Brusselslockdown",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Information, Communication & Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "23",
+        "journal_number": "1",
+        "journal_pages": "59-75",
+        "link": "https://doi.org/10.1080/1369118X.2018.1486866",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                ""
+            ],
+            "platform": "",
+            "place": "Europe"
+        }
+    },
+    "d09bf81351dd48c7bec14b970302ab0d": {
+        "id": "d09bf81351dd48c7bec14b970302ab0d",
+        "authors": [
+            {
+                "lastname": "Literat",
+                "firstname": "Loana"
+            },
+            {
+                "lastname": "Van Den Berg",
+                "firstname": "Sarah"
+            }
+        ],
+        "year": "2019",
+        "article_name": "Buy Memes Low, Sell Memes High: Vernacular Criticism and Collective Negotiations of Value on Reddit\u2019s MemeEconomy",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Information, Communication & Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "22",
+        "journal_number": "2",
+        "journal_pages": "232-49",
+        "link": "https://doi.org/10.1080/1369118X.2017.1366540",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                "Rhetoric"
+            ],
+            "platform": "Reddit",
+            "place": ""
+        }
+    },
+    "bb887194bb71407c9ba1db24fbcc1f1a": {
+        "id": "bb887194bb71407c9ba1db24fbcc1f1a",
+        "authors": [
+            {
+                "lastname": "Marciszewski",
+                "firstname": "Mark"
+            }
+        ],
+        "year": "2020",
+        "article_name": "The Problem of Modern Monetization of Memes: How Copyright Law Can Give Protection to Meme Creators",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Pace Intellectual Property, Sports & Entertainment Law Forum",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "9",
+        "journal_number": "61",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                "Copyright",
+                "Law"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "22237fb3ab7d48dba0b1a586cb866146": {
+        "id": "22237fb3ab7d48dba0b1a586cb866146",
+        "authors": [
+            {
+                "lastname": "Matalon",
+                "firstname": "Lee J."
+            }
+        ],
+        "year": "2019",
+        "article_name": "Modern Problems Require Modern Solutions: Internet Memes and Copyright",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Texas Law Review",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "98",
+        "journal_number": "405",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                "Copyright",
+                "Law"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "a03b3891d83b4d6eb576398092750d71": {
+        "id": "a03b3891d83b4d6eb576398092750d71",
+        "authors": [
+            {
+                "lastname": "Mielczarek",
+                "firstname": "Natalia"
+            },
+            {
+                "lastname": "Hopkins",
+                "firstname": "W. Wat"
+            }
+        ],
+        "year": "2020",
+        "article_name": "Copyright, Transformativeness, and Protection for Internet Memes",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Journalism & Mass Communicaton Quarterly",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "98",
+        "journal_number": "1",
+        "journal_pages": "37-58",
+        "link": "https://doi.org/10/ghcnfh",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                "Copyright",
+                "Law"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "4b1d26ba77344bda98a6d098d03bada8": {
+        "id": "4b1d26ba77344bda98a6d098d03bada8",
+        "authors": [
+            {
+                "lastname": "Milner",
+                "firstname": "Ryan M."
+            }
+        ],
+        "year": "2016",
+        "article_name": "The World Made Meme: Public Conversations and Participatory Media",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "MIT Press",
+        "book_isbn": "",
+        "book_city": "Cambridge, MA",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                ""
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "46282018b0b34209b1f1a9c4c5202a2a": {
+        "id": "46282018b0b34209b1f1a9c4c5202a2a",
+        "authors": [
+            {
+                "lastname": "Nissenbaum",
+                "firstname": "Asaf"
+            },
+            {
+                "lastname": "Shifman",
+                "firstname": "Limor"
+            }
+        ],
+        "year": "2017",
+        "article_name": "Internet Memes as Contested Cultural Capital: The Case of 4chan\u2019s /b/ Board",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "New Media & Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "19",
+        "journal_number": "4",
+        "journal_pages": "483-501",
+        "link": "https://doi.org/10.1177/1461444815609313",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                ""
+            ],
+            "platform": "4chan",
+            "place": ""
+        }
+    },
+    "6def099b4fd84de5ba1e2adafbd95df9": {
+        "id": "6def099b4fd84de5ba1e2adafbd95df9",
+        "authors": [
+            {
+                "lastname": "Pa\u00dfmann",
+                "firstname": "Johannes"
+            },
+            {
+                "lastname": "Schubert",
+                "firstname": "Cornelius"
+            }
+        ],
+        "year": "2020",
+        "article_name": "Liking as Taste Making: Social Media Practices as Generators of Aesthetic Valuation and Distinction",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "New Media & Society",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "https://doi.org/10.1177/146144482093945",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                ""
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "0cfe1c3970054e5aa7dfc3eda65d2c82": {
+        "id": "0cfe1c3970054e5aa7dfc3eda65d2c82",
+        "authors": [
+            {
+                "lastname": "Phillips",
+                "firstname": "Whitney"
+            },
+            {
+                "lastname": "Milner",
+                "firstname": "Ryan M."
+            }
+        ],
+        "year": "2017",
+        "article_name": "The Ambivalent Internet: Mischief, Oddity, and Antagonism Online",
+        "resource_type": "Book",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "Polity ",
+        "book_isbn": "",
+        "book_city": "Cambridge, UK",
+        "journal_volume": "",
+        "journal_number": "",
+        "journal_pages": "",
+        "link": "",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                "Trolling and antagonism"
+            ],
+            "platform": "",
+            "place": ""
+        }
+    },
+    "f78e32e3c480476995a6e0bd5bbfdfa2": {
+        "id": "f78e32e3c480476995a6e0bd5bbfdfa2",
+        "authors": [
+            {
+                "lastname": "Yang",
+                "firstname": "Guobin"
+            },
+            {
+                "lastname": "Jiang",
+                "firstname": "Min"
+            }
+        ],
+        "year": "2015",
+        "article_name": "The Networked Practice of Online Political Satire in China: Between Ritual and Resistance",
+        "resource_type": "Article (Journal)",
+        "book_bookname": "",
+        "book_bookeditor": "",
+        "publisher": "International Communication Gazette",
+        "book_isbn": "",
+        "book_city": "",
+        "journal_volume": "77",
+        "journal_number": "3",
+        "journal_pages": "215-31",
+        "link": "https://doi.org/10.1177/1748048514568757",
+        "subject": {
+            "topics": [
+                "Memes as Capital",
+                "Resistance",
+                "Protest"
+            ],
+            "platform": "",
+            "place": "China"
+        }
+    }
+}
