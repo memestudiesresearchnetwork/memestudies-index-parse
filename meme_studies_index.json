@@ -1,6 +1,6 @@
 {
-    "cf01bead896c45e3abb28ccb771a67c7": {
-        "id": "cf01bead896c45e3abb28ccb771a67c7",
+    "067b893079e84aa39259ac9da7992998": {
+        "id": "067b893079e84aa39259ac9da7992998",
         "authors": [
             {
                 "lastname": "Bolter",
@@ -33,8 +33,8 @@
             "place": ""
         }
     },
-    "c57bf67af8674db4af9e8c845e580758": {
-        "id": "c57bf67af8674db4af9e8c845e580758",
+    "f423b40af52c4cffb0feb95f03ee6b83": {
+        "id": "f423b40af52c4cffb0feb95f03ee6b83",
         "authors": [
             {
                 "lastname": "Manovich",
@@ -63,8 +63,8 @@
             "place": ""
         }
     },
-    "e446f991402a418dafdc79e2283f9147": {
-        "id": "e446f991402a418dafdc79e2283f9147",
+    "ca7a3a8e10ad416ea80f174bdadae19d": {
+        "id": "ca7a3a8e10ad416ea80f174bdadae19d",
         "authors": [
             {
                 "lastname": "Saper",
@@ -93,12 +93,12 @@
             "place": ""
         }
     },
-    "0a1f44501a9a4372b9a6192b8176ebdb": {
-        "id": "0a1f44501a9a4372b9a6192b8176ebdb",
+    "2daab14cd20444ebab50f434e09916a3": {
+        "id": "2daab14cd20444ebab50f434e09916a3",
         "authors": [
             {
-                "lastname": "Tam\u00e1s",
-                "firstname": "Polg\u00e1r"
+                "lastname": "Tamás",
+                "firstname": "Polgár"
             }
         ],
         "year": "2005",
@@ -122,8 +122,8 @@
             "place": ""
         }
     },
-    "72c39a1964444642bf8f34ba6312d6e6": {
-        "id": "72c39a1964444642bf8f34ba6312d6e6",
+    "07d145ca9a474db39aaa0ec77d8adc6a": {
+        "id": "07d145ca9a474db39aaa0ec77d8adc6a",
         "authors": [
             {
                 "lastname": "Friedberg",
@@ -151,8 +151,8 @@
             "place": ""
         }
     },
-    "e69751d7265d47bf80ce0eab70520e4a": {
-        "id": "e69751d7265d47bf80ce0eab70520e4a",
+    "003daa1481074aa881a79cee19e85018": {
+        "id": "003daa1481074aa881a79cee19e85018",
         "authors": [
             {
                 "lastname": "Navas",
@@ -181,8 +181,8 @@
             "place": ""
         }
     },
-    "0e8ad1e9053c4acd951c39d31013a74e": {
-        "id": "0e8ad1e9053c4acd951c39d31013a74e",
+    "8d5657ab64d14243a85ee29097e4e499": {
+        "id": "8d5657ab64d14243a85ee29097e4e499",
         "authors": [
             {
                 "lastname": "Navas",
@@ -211,8 +211,8 @@
             "place": ""
         }
     },
-    "0b2beaadac154b24996202e135c65116": {
-        "id": "0b2beaadac154b24996202e135c65116",
+    "8c4e0736d0904c6e9e040819c9b9c8c5": {
+        "id": "8c4e0736d0904c6e9e040819c9b9c8c5",
         "authors": [
             {
                 "lastname": "Manovich",
@@ -241,11 +241,11 @@
             "place": ""
         }
     },
-    "f0ca4116d6544b09865c43ed838f96b1": {
-        "id": "f0ca4116d6544b09865c43ed838f96b1",
+    "406407e11f9443c0b11779856a889f7f": {
+        "id": "406407e11f9443c0b11779856a889f7f",
         "authors": [
             {
-                "lastname": "Ellestr\u00f6m",
+                "lastname": "Elleström",
                 "firstname": "Lars"
             }
         ],
@@ -271,8 +271,8 @@
             "place": ""
         }
     },
-    "1156a6db583846509802148133b5ed93": {
-        "id": "1156a6db583846509802148133b5ed93",
+    "352f78f370c44386a4212dc3588094ad": {
+        "id": "352f78f370c44386a4212dc3588094ad",
         "authors": [
             {
                 "lastname": "Jenkins",
@@ -289,7 +289,7 @@
         "book_city": "",
         "journal_volume": "100",
         "journal_number": "4",
-        "journal_pages": "442\u201366",
+        "journal_pages": "442–66",
         "link": "https://doi.org/10.1080/00335630.2014.989258.",
         "subject": {
             "topics": [
@@ -301,8 +301,8 @@
             "place": ""
         }
     },
-    "b75be1e5e26a434bbfc3c80f69a8707e": {
-        "id": "b75be1e5e26a434bbfc3c80f69a8707e",
+    "8458236ed2af4140b3a12c34c1696901": {
+        "id": "8458236ed2af4140b3a12c34c1696901",
         "authors": [
             {
                 "lastname": "Shifman",
@@ -331,8 +331,8 @@
             "place": ""
         }
     },
-    "add8c49eed4b4941af1e93a776a46b2a": {
-        "id": "add8c49eed4b4941af1e93a776a46b2a",
+    "2b1100054a2a4182b2839a9c6d756c72": {
+        "id": "2b1100054a2a4182b2839a9c6d756c72",
         "authors": [
             {
                 "lastname": "Dobson",
@@ -340,7 +340,7 @@
             }
         ],
         "year": "2015",
-        "article_name": "Girls\u2019 \u2018Pain Memes\u2019 on YouTube: The Production of Pain and Femininity in a Digital Network",
+        "article_name": "Girls’ ‘Pain Memes’ on YouTube: The Production of Pain and Femininity in a Digital Network",
         "resource_type": "Book chapter",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -361,8 +361,8 @@
             "place": ""
         }
     },
-    "a74f7628e6bf496bacb5bb8b11ef2e67": {
-        "id": "a74f7628e6bf496bacb5bb8b11ef2e67",
+    "ae8fe5e27caa46df839303c9ec7ffd74": {
+        "id": "ae8fe5e27caa46df839303c9ec7ffd74",
         "authors": [
             {
                 "lastname": "Gries",
@@ -391,8 +391,8 @@
             "place": ""
         }
     },
-    "e6fed091f25348a1bcff012bc4c80fb1": {
-        "id": "e6fed091f25348a1bcff012bc4c80fb1",
+    "26e7513588a44bfa9e89aca6470df760": {
+        "id": "26e7513588a44bfa9e89aca6470df760",
         "authors": [
             {
                 "lastname": "Wiggins",
@@ -413,7 +413,7 @@
         "book_city": "",
         "journal_volume": "17",
         "journal_number": "11",
-        "journal_pages": "1886\u20131906",
+        "journal_pages": "1886–1906",
         "link": "https://doi.org/10.1177/1461444814535194.",
         "subject": {
             "topics": [
@@ -425,8 +425,8 @@
             "place": ""
         }
     },
-    "6646b405083e4dbc88a22f6a352e1fc5": {
-        "id": "6646b405083e4dbc88a22f6a352e1fc5",
+    "eb9ff2b4513f4210a1f362c21dd891ea": {
+        "id": "eb9ff2b4513f4210a1f362c21dd891ea",
         "authors": [
             {
                 "lastname": "Irvine",
@@ -434,7 +434,7 @@
             }
         ],
         "year": "2015",
-        "article_name": "Remix and the Dialogic Engine of Culture: A Model for Generative Combinatoriality\r\n",
+        "article_name": "Remix and the Dialogic Engine of Culture: A Model for Generative Combinatoriality\n",
         "resource_type": "Book Chapter",
         "book_bookname": "The Routledge Companion to Remix Studies",
         "book_bookeditor": "Eduardo Navas, Owen Gallagher, Xtine Burrough",
@@ -455,8 +455,8 @@
             "place": ""
         }
     },
-    "0d4afdaeaf9641028c8bd50fcc2ef64b": {
-        "id": "0d4afdaeaf9641028c8bd50fcc2ef64b",
+    "26c64b54d0ac47509b6e5e3b1bc6e019": {
+        "id": "26c64b54d0ac47509b6e5e3b1bc6e019",
         "authors": [
             {
                 "lastname": "Sonvilla-Weiss",
@@ -464,7 +464,7 @@
             }
         ],
         "year": "2015",
-        "article_name": "Good Artists Copy; Great Artists Steal: Reflections on Cut-Copy-Paste Culture\r\n",
+        "article_name": "Good Artists Copy; Great Artists Steal: Reflections on Cut-Copy-Paste Culture\n",
         "resource_type": "Book",
         "book_bookname": "The Routledge Companion to Remix Studies",
         "book_bookeditor": "Eduardo Navas, Owen Gallagher, Xtine Burrough",
@@ -485,8 +485,8 @@
             "place": ""
         }
     },
-    "bd3ccb96dfa541ec975d53bd127c7ff8": {
-        "id": "bd3ccb96dfa541ec975d53bd127c7ff8",
+    "582abd3dc05d4b07887b6d723db7ad68": {
+        "id": "582abd3dc05d4b07887b6d723db7ad68",
         "authors": [
             {
                 "lastname": "Applegate",
@@ -507,7 +507,7 @@
         "book_city": "",
         "journal_volume": "13",
         "journal_number": "1",
-        "journal_pages": "81\u2013100",
+        "journal_pages": "81–100",
         "link": "https://doi.org/10.1215/17432197-3755204.",
         "subject": {
             "topics": [
@@ -518,8 +518,8 @@
             "place": ""
         }
     },
-    "f66b71c624a64dffa1aedecdf83faecd": {
-        "id": "f66b71c624a64dffa1aedecdf83faecd",
+    "ab08721740474057b88d67758ce1c604": {
+        "id": "ab08721740474057b88d67758ce1c604",
         "authors": [
             {
                 "lastname": "Breheny",
@@ -527,7 +527,7 @@
             }
         ],
         "year": "2017",
-        "article_name": "\u201cBy Any Memes Necessary\u201d: Exploring the Intersectional Politics of Feminist Memes on Instagram",
+        "article_name": "“By Any Memes Necessary”: Exploring the Intersectional Politics of Feminist Memes on Instagram",
         "resource_type": "MA Dissertation",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -549,8 +549,8 @@
             "place": ""
         }
     },
-    "fc3d01a84c8a466496536477754f3a30": {
-        "id": "fc3d01a84c8a466496536477754f3a30",
+    "ca90f250a7f94727895a2326a74da34c": {
+        "id": "ca90f250a7f94727895a2326a74da34c",
         "authors": [
             {
                 "lastname": "Boudana",
@@ -587,8 +587,8 @@
             "place": ""
         }
     },
-    "e8a940f06a174f089d485d62bc0f6308": {
-        "id": "e8a940f06a174f089d485d62bc0f6308",
+    "34013e72002d4325aab0a698bea25bc2": {
+        "id": "34013e72002d4325aab0a698bea25bc2",
         "authors": [
             {
                 "lastname": "Johnson",
@@ -617,8 +617,8 @@
             "place": ""
         }
     },
-    "ce36fc5757574f79b92e0af70382cc22": {
-        "id": "ce36fc5757574f79b92e0af70382cc22",
+    "ebeda1de0cb745d499d272694a6c9060": {
+        "id": "ebeda1de0cb745d499d272694a6c9060",
         "authors": [
             {
                 "lastname": "Voigts",
@@ -626,7 +626,7 @@
             }
         ],
         "year": "2017",
-        "article_name": "Memes and Recombinant Appropriation: Remix, Mashup, Parody\r\n",
+        "article_name": "Memes and Recombinant Appropriation: Remix, Mashup, Parody\n",
         "resource_type": "Book Chapter",
         "book_bookname": "The Oxford Handbook of Adaptation Studies",
         "book_bookeditor": "Thomas M. Leitch",
@@ -647,8 +647,8 @@
             "place": ""
         }
     },
-    "53fa5f9c5615468f8f8279aa07c42720": {
-        "id": "53fa5f9c5615468f8f8279aa07c42720",
+    "198ddc6cfbbf4aa79198054832e81703": {
+        "id": "198ddc6cfbbf4aa79198054832e81703",
         "authors": [
             {
                 "lastname": "Voigts-Virchow",
@@ -656,7 +656,7 @@
             }
         ],
         "year": "2017",
-        "article_name": "\u2018Memes, GIFs, and Remix Culture: Compact Appropriation in Everyday Digital Life\u2019.\r\n",
+        "article_name": "‘Memes, GIFs, and Remix Culture: Compact Appropriation in Everyday Digital Life’.\n",
         "resource_type": "Book Chapter",
         "book_bookname": "The Routledge Companion to Adaptation",
         "book_bookeditor": "Dennis R. Cutchins, Katja Krebs, Eckart Voigts-Virchow",
@@ -678,8 +678,8 @@
             "place": ""
         }
     },
-    "c4663848798e454b9a8784f2830301bc": {
-        "id": "c4663848798e454b9a8784f2830301bc",
+    "a4d21a8baa5a471295529b885513dc2a": {
+        "id": "a4d21a8baa5a471295529b885513dc2a",
         "authors": [
             {
                 "lastname": "Brantner",
@@ -717,8 +717,8 @@
             "place": ""
         }
     },
-    "5e4b285603ba4735aabab375e69b0e3c": {
-        "id": "5e4b285603ba4735aabab375e69b0e3c",
+    "e8c1cd05cbe44aeda8df7406a81ec532": {
+        "id": "e8c1cd05cbe44aeda8df7406a81ec532",
         "authors": [
             {
                 "lastname": "Hardesty",
@@ -755,8 +755,8 @@
             "place": ""
         }
     },
-    "a85baf7f8cdd4e8a9914fbbc3e9b63ce": {
-        "id": "a85baf7f8cdd4e8a9914fbbc3e9b63ce",
+    "e18690083c1e464fa9609d67eaaf84f5": {
+        "id": "e18690083c1e464fa9609d67eaaf84f5",
         "authors": [
             {
                 "lastname": "Aharoni",
@@ -773,7 +773,7 @@
         "book_city": "",
         "journal_volume": "21",
         "journal_number": "10",
-        "journal_pages": "2283\u20132304",
+        "journal_pages": "2283–2304",
         "link": "https://doi.org/10.1177/1461444819845917.",
         "subject": {
             "topics": [
@@ -785,8 +785,8 @@
             "place": ""
         }
     },
-    "3cbbc780360144018874b583af7e5b44": {
-        "id": "3cbbc780360144018874b583af7e5b44",
+    "7fdce113cf9544528108bfce94babb96": {
+        "id": "7fdce113cf9544528108bfce94babb96",
         "authors": [
             {
                 "lastname": "Waters",
@@ -814,8 +814,8 @@
             "place": ""
         }
     },
-    "5c557fb0af464e22b00b3bb91e58e4d5": {
-        "id": "5c557fb0af464e22b00b3bb91e58e4d5",
+    "b6e45adad4e9463e9c0abd4bb63e3b40": {
+        "id": "b6e45adad4e9463e9c0abd4bb63e3b40",
         "authors": [
             {
                 "lastname": "Manovich",
@@ -843,8 +843,8 @@
             "place": ""
         }
     },
-    "1a8eaa586c5548f29786a6eaff75e498": {
-        "id": "1a8eaa586c5548f29786a6eaff75e498",
+    "304ba07dfe494fe4ba105e49b545d3a0": {
+        "id": "304ba07dfe494fe4ba105e49b545d3a0",
         "authors": [
             {
                 "lastname": "Schonig",
@@ -872,8 +872,8 @@
             "place": ""
         }
     },
-    "b83e79b6b548470980a8101787f5184c": {
-        "id": "b83e79b6b548470980a8101787f5184c",
+    "16c826cd3fe042a4b6e550008dc986aa": {
+        "id": "16c826cd3fe042a4b6e550008dc986aa",
         "authors": [
             {
                 "lastname": "Scavnicky",
@@ -901,8 +901,8 @@
             "place": ""
         }
     },
-    "9398b1d0503b4256bbbe888b8aa23129": {
-        "id": "9398b1d0503b4256bbbe888b8aa23129",
+    "7788dfacc610459082ccf73176b52ee5": {
+        "id": "7788dfacc610459082ccf73176b52ee5",
         "authors": [
             {
                 "lastname": "Gerges",
@@ -930,8 +930,8 @@
             "place": ""
         }
     },
-    "8fbe49e0bfc84ea58015f1756f350135": {
-        "id": "8fbe49e0bfc84ea58015f1756f350135",
+    "f85eb5bb976e4b368a5d65ed7aeec7c5": {
+        "id": "f85eb5bb976e4b368a5d65ed7aeec7c5",
         "authors": [
             {
                 "lastname": "Harlow",
@@ -947,7 +947,7 @@
             }
         ],
         "year": "2018",
-        "article_name": "\"Kim Davis be like\u2009\u2009\u2026\u2009\": a feminist critique of gender humor in online political memes",
+        "article_name": "\"Kim Davis be like  … \": a feminist critique of gender humor in online political memes",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -967,8 +967,8 @@
             "place": ""
         }
     },
-    "e44a84c0961649bc97003633e8b89724": {
-        "id": "e44a84c0961649bc97003633e8b89724",
+    "8aba19c5702e437e82c5fab69d452c73": {
+        "id": "8aba19c5702e437e82c5fab69d452c73",
         "authors": [
             {
                 "lastname": "Hockin-Boyers",
@@ -1004,8 +1004,8 @@
             "place": ""
         }
     },
-    "e39d2b177eed4e358cefb81dc7679c14": {
-        "id": "e39d2b177eed4e358cefb81dc7679c14",
+    "b4793fbaff284bbb8015ed00e2872291": {
+        "id": "b4793fbaff284bbb8015ed00e2872291",
         "authors": [
             {
                 "lastname": "Smith",
@@ -1013,7 +1013,7 @@
             }
         ],
         "year": "2019",
-        "article_name": "Weaponized iconoclasm in Internet memes featuring the expression \u2018Fake News'",
+        "article_name": "Weaponized iconoclasm in Internet memes featuring the expression ‘Fake News'",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -1034,8 +1034,8 @@
             "place": ""
         }
     },
-    "8bb79d88833f4f24b9371b1e51487f1f": {
-        "id": "8bb79d88833f4f24b9371b1e51487f1f",
+    "0cc68cf977a147b59ac7c69f298550e3": {
+        "id": "0cc68cf977a147b59ac7c69f298550e3",
         "authors": [
             {
                 "lastname": "Kanai",
@@ -1065,8 +1065,8 @@
             "place": ""
         }
     },
-    "6e7a753236344a14902fda00da27d064": {
-        "id": "6e7a753236344a14902fda00da27d064",
+    "a8353ed24b1448e48410ea405723ded3": {
+        "id": "a8353ed24b1448e48410ea405723ded3",
         "authors": [
             {
                 "lastname": "Lagerwey",
@@ -1078,7 +1078,7 @@
             }
         ],
         "year": "2020",
-        "article_name": "Tiger King\u2019s Meme-Ification of White Grievance and the Normalization of Misogyny",
+        "article_name": "Tiger King’s Meme-Ification of White Grievance and the Normalization of Misogyny",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -1100,8 +1100,8 @@
             "place": ""
         }
     },
-    "7a1806e4fbca4d24844a1558ebfb37df": {
-        "id": "7a1806e4fbca4d24844a1558ebfb37df",
+    "54286fd8f47b4980bd450126ae85d105": {
+        "id": "54286fd8f47b4980bd450126ae85d105",
         "authors": [
             {
                 "lastname": "Lind",
@@ -1131,8 +1131,8 @@
             "place": ""
         }
     },
-    "05da4fa345164d3a8743b64433c2bfb1": {
-        "id": "05da4fa345164d3a8743b64433c2bfb1",
+    "2c360a71d2f74cefba641103c7716c75": {
+        "id": "2c360a71d2f74cefba641103c7716c75",
         "authors": [
             {
                 "lastname": "Massanari",
@@ -1140,7 +1140,7 @@
             }
         ],
         "year": "2019",
-        "article_name": "\u201cCome for the Period Comics. Stay for the Cultural Awareness\u201d: Reclaiming the Troll Identity through Feminist Humor on Reddit\u2019s /r/TrollXChromosomes",
+        "article_name": "“Come for the Period Comics. Stay for the Cultural Awareness”: Reclaiming the Troll Identity through Feminist Humor on Reddit’s /r/TrollXChromosomes",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -1161,8 +1161,8 @@
             "place": ""
         }
     },
-    "805c20e294554a90a03772a123127ed2": {
-        "id": "805c20e294554a90a03772a123127ed2",
+    "b072b0f434dc466a9c743576539979cf": {
+        "id": "b072b0f434dc466a9c743576539979cf",
         "authors": [
             {
                 "lastname": "Massanari",
@@ -1196,8 +1196,8 @@
             "place": ""
         }
     },
-    "70592a38723042fc97e71fcedc42036b": {
-        "id": "70592a38723042fc97e71fcedc42036b",
+    "25c4bb3bed3443a38483050542a94537": {
+        "id": "25c4bb3bed3443a38483050542a94537",
         "authors": [
             {
                 "lastname": "Merrill",
@@ -1227,8 +1227,8 @@
             "place": ""
         }
     },
-    "0d980fc4bf5044639ab7f7a9e4d71b4d": {
-        "id": "0d980fc4bf5044639ab7f7a9e4d71b4d",
+    "5bff6a2efc3d4e449df815e0ddb51d5a": {
+        "id": "5bff6a2efc3d4e449df815e0ddb51d5a",
         "authors": [
             {
                 "lastname": "Miltner",
@@ -1236,7 +1236,7 @@
             }
         ],
         "year": "2014",
-        "article_name": "\u201cThere\u2019s No Place for Lulz on LOLCats\u201d: The Role of Genre, Gender, and Group Identity in the Interpretation and Enjoyment of an Internet Meme",
+        "article_name": "“There’s No Place for Lulz on LOLCats”: The Role of Genre, Gender, and Group Identity in the Interpretation and Enjoyment of an Internet Meme",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -1258,8 +1258,8 @@
             "place": ""
         }
     },
-    "83653ee4a78f40eca3ba8a1a1fc74033": {
-        "id": "83653ee4a78f40eca3ba8a1a1fc74033",
+    "37d22c9fee2c47f9a905716781dd7347": {
+        "id": "37d22c9fee2c47f9a905716781dd7347",
         "authors": [
             {
                 "lastname": "Negra",
@@ -1271,7 +1271,7 @@
             }
         ],
         "year": "2020",
-        "article_name": "Querying \u2018Karen\u2019: The Rise of the Angry White Woman",
+        "article_name": "Querying ‘Karen’: The Rise of the Angry White Woman",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -1292,8 +1292,8 @@
             "place": ""
         }
     },
-    "18d0cfdf7668481a863152846cd1a60d": {
-        "id": "18d0cfdf7668481a863152846cd1a60d",
+    "fe5f0d0808fa437aa330a311e1c0b96b": {
+        "id": "fe5f0d0808fa437aa330a311e1c0b96b",
         "authors": [
             {
                 "lastname": "Peck",
@@ -1326,8 +1326,8 @@
             "place": ""
         }
     },
-    "c4f6f8064df74263a2a4245c3ca268c8": {
-        "id": "c4f6f8064df74263a2a4245c3ca268c8",
+    "44cf2b197f264c80aaf0565dd8a8d5b4": {
+        "id": "44cf2b197f264c80aaf0565dd8a8d5b4",
         "authors": [
             {
                 "lastname": "Rentschler",
@@ -1339,7 +1339,7 @@
             }
         ],
         "year": "2015",
-        "article_name": "Doing Feminism in the Network: Networked Laughter and the \u2018Binders Full of Women\u2019 Meme",
+        "article_name": "Doing Feminism in the Network: Networked Laughter and the ‘Binders Full of Women’ Meme",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -1359,8 +1359,8 @@
             "place": ""
         }
     },
-    "85564d875e2046d09d3a4919909df0fc": {
-        "id": "85564d875e2046d09d3a4919909df0fc",
+    "728f2dde350e42a6b2d734b4602d774b": {
+        "id": "728f2dde350e42a6b2d734b4602d774b",
         "authors": [
             {
                 "lastname": "Retallack",
@@ -1376,7 +1376,7 @@
             }
         ],
         "year": "2016",
-        "article_name": "\u201cFuck Your Body Image\u201d: Teen Girls\u2019 Twitter and Instagram Feminism in and Around School",
+        "article_name": "“Fuck Your Body Image”: Teen Girls’ Twitter and Instagram Feminism in and Around School",
         "resource_type": "Book Chapter",
         "book_bookname": "Learning Bodies",
         "book_bookeditor": "Julia Coffey, Shelley Budgeon, Helen Cahil",
@@ -1397,8 +1397,8 @@
             "place": ""
         }
     },
-    "b8928522612e40639c555d1c03c748e3": {
-        "id": "b8928522612e40639c555d1c03c748e3",
+    "aa548f6d80564092a4e0cd2377f4f838": {
+        "id": "aa548f6d80564092a4e0cd2377f4f838",
         "authors": [
             {
                 "lastname": "Shifman",
@@ -1410,7 +1410,7 @@
             }
         ],
         "year": "2011",
-        "article_name": "\u201cMars and Venus\u201d in Virtual Space: Post-Feminist Humor and the Internet",
+        "article_name": "“Mars and Venus” in Virtual Space: Post-Feminist Humor and the Internet",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -1431,8 +1431,8 @@
             "place": ""
         }
     },
-    "0d25eb7102da4932a20a88a12a7bc44e": {
-        "id": "0d25eb7102da4932a20a88a12a7bc44e",
+    "7a69f1b430b64814ae8b9eb23adf2d78": {
+        "id": "7a69f1b430b64814ae8b9eb23adf2d78",
         "authors": [
             {
                 "lastname": "Ask",
@@ -1444,7 +1444,7 @@
             }
         ],
         "year": "2018",
-        "article_name": "\u2018My Life Is a Mess: Self-Deprecating Relatability and Collective Identities in the Memification of Student Issues",
+        "article_name": "‘My Life Is a Mess: Self-Deprecating Relatability and Collective Identities in the Memification of Student Issues",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -1465,8 +1465,8 @@
             "place": ""
         }
     },
-    "186b7443e0a447dd84eb7c5d130090f3": {
-        "id": "186b7443e0a447dd84eb7c5d130090f3",
+    "0a673d8c3ae5473d888038493bc3c2d0": {
+        "id": "0a673d8c3ae5473d888038493bc3c2d0",
         "authors": [
             {
                 "lastname": "Boxman-Shabtai",
@@ -1498,8 +1498,8 @@
             "place": ""
         }
     },
-    "beccc7b0fc984efd9c112c2fd3f88fe6": {
-        "id": "beccc7b0fc984efd9c112c2fd3f88fe6",
+    "6028ddbe4967439c8b5c2c6319366256": {
+        "id": "6028ddbe4967439c8b5c2c6319366256",
         "authors": [
             {
                 "lastname": "Burton",
@@ -1528,8 +1528,8 @@
             "place": ""
         }
     },
-    "fdd20a8e651849b68e76ec704e33b3f7": {
-        "id": "fdd20a8e651849b68e76ec704e33b3f7",
+    "ad46db17758144a6b7d951df99311bbb": {
+        "id": "ad46db17758144a6b7d951df99311bbb",
         "authors": [
             {
                 "lastname": "DeCook",
@@ -1559,8 +1559,8 @@
             "place": ""
         }
     },
-    "5ed8e77fccad469784763cf2a6e2a510": {
-        "id": "5ed8e77fccad469784763cf2a6e2a510",
+    "34324961ba2f4b34bfa719c36c227ef3": {
+        "id": "34324961ba2f4b34bfa719c36c227ef3",
         "authors": [
             {
                 "lastname": "Denisova",
@@ -1588,8 +1588,8 @@
             "place": ""
         }
     },
-    "edb7ef4905dd4b22a1768e0edc7b89a8": {
-        "id": "edb7ef4905dd4b22a1768e0edc7b89a8",
+    "9b3bbd1f91d64388949f7d20bcefc990": {
+        "id": "9b3bbd1f91d64388949f7d20bcefc990",
         "authors": [
             {
                 "lastname": "Dundes",
@@ -1617,8 +1617,8 @@
             "place": ""
         }
     },
-    "96967066d6b54156b3d6973ef3b1ee01": {
-        "id": "96967066d6b54156b3d6973ef3b1ee01",
+    "6765ae9960524364bce25630dd9f9a70": {
+        "id": "6765ae9960524364bce25630dd9f9a70",
         "authors": [
             {
                 "lastname": "Eschler",
@@ -1630,7 +1630,7 @@
             }
         ],
         "year": "2018",
-        "article_name": "\"No Prejudice Here\u201d: Examining Social Identity Work in Starter Pack Memes",
+        "article_name": "\"No Prejudice Here”: Examining Social Identity Work in Starter Pack Memes",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -1651,8 +1651,8 @@
             "place": ""
         }
     },
-    "c0b3f532e29b4171b804945dd309a8f9": {
-        "id": "c0b3f532e29b4171b804945dd309a8f9",
+    "779f4fa009124a24a3663fdf1216b9d5": {
+        "id": "779f4fa009124a24a3663fdf1216b9d5",
         "authors": [
             {
                 "lastname": "Frazer",
@@ -1685,8 +1685,8 @@
             "place": ""
         }
     },
-    "69c54e6ead6047e0a0624c182bf51dab": {
-        "id": "69c54e6ead6047e0a0624c182bf51dab",
+    "38bb8b46379347afb58f70ce22bcd30f": {
+        "id": "38bb8b46379347afb58f70ce22bcd30f",
         "authors": [
             {
                 "lastname": "Gal",
@@ -1702,7 +1702,7 @@
             }
         ],
         "year": "2016",
-        "article_name": "\u201cIt Gets Better\u201d: Internet Memes and the Construction of Collective Identity",
+        "article_name": "“It Gets Better”: Internet Memes and the Construction of Collective Identity",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -1723,8 +1723,8 @@
             "place": ""
         }
     },
-    "83308060bf7c49729ce0ff28fb2ea5c7": {
-        "id": "83308060bf7c49729ce0ff28fb2ea5c7",
+    "784f143251b3467385b16849cd55593c": {
+        "id": "784f143251b3467385b16849cd55593c",
         "authors": [
             {
                 "lastname": "Ging",
@@ -1736,7 +1736,7 @@
             }
         ],
         "year": "2018",
-        "article_name": "\u201cWritten in These Scars Are the Stories I Can\u2019t Explain\u201d: A Content Analysis of pro-Ana and Thinspiration Image Sharing on Instagram",
+        "article_name": "“Written in These Scars Are the Stories I Can’t Explain”: A Content Analysis of pro-Ana and Thinspiration Image Sharing on Instagram",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -1757,8 +1757,8 @@
             "place": ""
         }
     },
-    "607e991691c247af888544bf892da345": {
-        "id": "607e991691c247af888544bf892da345",
+    "f96b974324444257baaec094fdc3d008": {
+        "id": "f96b974324444257baaec094fdc3d008",
         "authors": [
             {
                 "lastname": "Guenther",
@@ -1802,11 +1802,11 @@
             "place": "Germany"
         }
     },
-    "a603c0a4d6d54f12812f59b34f229494": {
-        "id": "a603c0a4d6d54f12812f59b34f229494",
+    "68336fc3e61547e4a048ebdda3a50b9e": {
+        "id": "68336fc3e61547e4a048ebdda3a50b9e",
         "authors": [
             {
-                "lastname": "Hakok\u00f6ng\u00e4s",
+                "lastname": "Hakoköngäs",
                 "firstname": "Eemeli"
             },
             {
@@ -1841,8 +1841,8 @@
             "place": "Finland"
         }
     },
-    "2da139cc141c46dabac9f5d58bfce8fc": {
-        "id": "2da139cc141c46dabac9f5d58bfce8fc",
+    "d4a0f21774a8409ea0bc527cb038b655": {
+        "id": "d4a0f21774a8409ea0bc527cb038b655",
         "authors": [
             {
                 "lastname": "Harvie",
@@ -1875,15 +1875,15 @@
             "place": ""
         }
     },
-    "762dfd272934497f8ed489971cd0ac35": {
-        "id": "762dfd272934497f8ed489971cd0ac35",
+    "a0f67817c9804d538b8ba17bee97b589": {
+        "id": "a0f67817c9804d538b8ba17bee97b589",
         "authors": [
             {
                 "lastname": "Jiang",
                 "firstname": "Yaqian"
             },
             {
-                "lastname": "V\u00e1squez",
+                "lastname": "Vásquez",
                 "firstname": "Camilla"
             }
         ],
@@ -1908,8 +1908,8 @@
             "place": "China"
         }
     },
-    "4594f2e51cc34fd19c859721e8bb7741": {
-        "id": "4594f2e51cc34fd19c859721e8bb7741",
+    "a4d8e20b51a847a1819208b9f67cc50b": {
+        "id": "a4d8e20b51a847a1819208b9f67cc50b",
         "authors": [
             {
                 "lastname": "Literat",
@@ -1921,7 +1921,7 @@
             }
         ],
         "year": "2019",
-        "article_name": "Youth Collective Political Expression on Social Media: The Role of Affordances and Memetic Dimensions for Voicing Political Views\u2019",
+        "article_name": "Youth Collective Political Expression on Social Media: The Role of Affordances and Memetic Dimensions for Voicing Political Views’",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -1942,8 +1942,8 @@
             "place": ""
         }
     },
-    "19874f860c114b589d28e99494aec65d": {
-        "id": "19874f860c114b589d28e99494aec65d",
+    "8646580686464413b8e55e8e37a48e6e": {
+        "id": "8646580686464413b8e55e8e37a48e6e",
         "authors": [
             {
                 "lastname": "Oakley",
@@ -1972,8 +1972,8 @@
             "place": ""
         }
     },
-    "4ceb3e80a9754abda4649257157c5b43": {
-        "id": "4ceb3e80a9754abda4649257157c5b43",
+    "9b7ab40388054cda9fa9a7082541f812": {
+        "id": "9b7ab40388054cda9fa9a7082541f812",
         "authors": [
             {
                 "lastname": "Penney",
@@ -1981,7 +1981,7 @@
             }
         ],
         "year": "2019",
-        "article_name": "\u2018It\u2019s So Hard Not to Be Funny in This Situation\u2019: Memes and Humor in U.S. Youth Online Political Expression.",
+        "article_name": "‘It’s So Hard Not to Be Funny in This Situation’: Memes and Humor in U.S. Youth Online Political Expression.",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -2002,8 +2002,8 @@
             "place": "US"
         }
     },
-    "9a67b02d5e964f168168998a855e8040": {
-        "id": "9a67b02d5e964f168168998a855e8040",
+    "445841bb5feb434c83b49374bd5782c8": {
+        "id": "445841bb5feb434c83b49374bd5782c8",
         "authors": [
             {
                 "lastname": "Perreault",
@@ -2035,12 +2035,12 @@
             "place": ""
         }
     },
-    "93c035b6157e4171b20325f5dd96efab": {
-        "id": "93c035b6157e4171b20325f5dd96efab",
+    "44102ca935634a3e990804f65c99e7ff": {
+        "id": "44102ca935634a3e990804f65c99e7ff",
         "authors": [
             {
-                "lastname": "Proch\u00e1zka",
-                "firstname": "Ond\u0159ej"
+                "lastname": "Procházka",
+                "firstname": "Ondřej"
             }
         ],
         "year": "2019",
@@ -2064,12 +2064,12 @@
             "place": "Europe"
         }
     },
-    "44f2fe6435194feb865ebad86395fad5": {
-        "id": "44f2fe6435194feb865ebad86395fad5",
+    "541b28ccdca640e4a31ea22f129c7d5f": {
+        "id": "541b28ccdca640e4a31ea22f129c7d5f",
         "authors": [
             {
-                "lastname": "Proch\u00e1zka",
-                "firstname": "Ond\u0159ej"
+                "lastname": "Procházka",
+                "firstname": "Ondřej"
             }
         ],
         "year": "2018",
@@ -2093,8 +2093,8 @@
             "place": ""
         }
     },
-    "d7cc170423c9499eaaeef61520b88e73": {
-        "id": "d7cc170423c9499eaaeef61520b88e73",
+    "48c494ff821c463296147dae3b5b06ea": {
+        "id": "48c494ff821c463296147dae3b5b06ea",
         "authors": [
             {
                 "lastname": "Sobande",
@@ -2123,8 +2123,8 @@
             "place": "UK"
         }
     },
-    "7fca2df86f4c45ddb07d3244bfa4c17b": {
-        "id": "7fca2df86f4c45ddb07d3244bfa4c17b",
+    "68cebd16217b4bc7849344d3cbcb1d19": {
+        "id": "68cebd16217b4bc7849344d3cbcb1d19",
         "authors": [
             {
                 "lastname": "Tiidenberg",
@@ -2136,7 +2136,7 @@
             }
         ],
         "year": "2017",
-        "article_name": "Sick Bunnies and Pocket Dumps: \u2018Not-Selfies\u2019 and the Genre of Self-Representation",
+        "article_name": "Sick Bunnies and Pocket Dumps: ‘Not-Selfies’ and the Genre of Self-Representation",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -2157,8 +2157,8 @@
             "place": ""
         }
     },
-    "985b83ae03144e78948a585af673f186": {
-        "id": "985b83ae03144e78948a585af673f186",
+    "10cb701271974b63b848035644d6c923": {
+        "id": "10cb701271974b63b848035644d6c923",
         "authors": [
             {
                 "lastname": "Tuters",
@@ -2190,8 +2190,8 @@
             "place": ""
         }
     },
-    "55a4723cd0f9438db3b948d994f8eb8c": {
-        "id": "55a4723cd0f9438db3b948d994f8eb8c",
+    "decd28f52c234eb99077de4a2b3abdf7": {
+        "id": "decd28f52c234eb99077de4a2b3abdf7",
         "authors": [
             {
                 "lastname": "Varis",
@@ -2223,8 +2223,8 @@
             "place": ""
         }
     },
-    "efba60e5026f43f786d0fa35c1976fa3": {
-        "id": "efba60e5026f43f786d0fa35c1976fa3",
+    "d8c794839ce747aead41a288eb2ebf45": {
+        "id": "d8c794839ce747aead41a288eb2ebf45",
         "authors": [
             {
                 "lastname": "Wiggins",
@@ -2232,7 +2232,7 @@
             }
         ],
         "year": "2020",
-        "article_name": "Boogaloo and Civil War 2: Memetic Antagonism in Expressions of Covert Activism\u2019",
+        "article_name": "Boogaloo and Civil War 2: Memetic Antagonism in Expressions of Covert Activism’",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -2253,8 +2253,8 @@
             "place": "US"
         }
     },
-    "ee653ba974de4573872f975dabec5022": {
-        "id": "ee653ba974de4573872f975dabec5022",
+    "211b4758650948548221d4c9d915be3b": {
+        "id": "211b4758650948548221d4c9d915be3b",
         "authors": [
             {
                 "lastname": "Williams",
@@ -2294,8 +2294,8 @@
             "place": ""
         }
     },
-    "e99c18f03db346a586d32829d8f079a7": {
-        "id": "e99c18f03db346a586d32829d8f079a7",
+    "fb12c7be9f90443e9b78716aea2a55cd": {
+        "id": "fb12c7be9f90443e9b78716aea2a55cd",
         "authors": [
             {
                 "lastname": "Yus",
@@ -2323,8 +2323,8 @@
             "place": ""
         }
     },
-    "b17864ea18444852b4f1b64648bf768b": {
-        "id": "b17864ea18444852b4f1b64648bf768b",
+    "4b581ff3175a4000ba98fc0f87367cbe": {
+        "id": "4b581ff3175a4000ba98fc0f87367cbe",
         "authors": [
             {
                 "lastname": "Bourlai",
@@ -2336,7 +2336,7 @@
             }
         ],
         "year": "2014",
-        "article_name": "Multimodal Communication on Tumblr: \u201c I Have So Many Feels !\"",
+        "article_name": "Multimodal Communication on Tumblr: “ I Have So Many Feels !\"",
         "resource_type": "Conference Proceedings",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -2356,8 +2356,8 @@
             "place": ""
         }
     },
-    "5acc1d608331499aa4d074fe4c7d709c": {
-        "id": "5acc1d608331499aa4d074fe4c7d709c",
+    "e293d934fff245acae942e48b2132c84": {
+        "id": "e293d934fff245acae942e48b2132c84",
         "authors": [
             {
                 "lastname": "Cannizzaro",
@@ -2385,8 +2385,8 @@
             "place": ""
         }
     },
-    "f9c53fa48ab34ff3895c8c63deb92aa6": {
-        "id": "f9c53fa48ab34ff3895c8c63deb92aa6",
+    "0a9f26bbca7b4f98b0a2d5fb77461296": {
+        "id": "0a9f26bbca7b4f98b0a2d5fb77461296",
         "authors": [
             {
                 "lastname": "Davison",
@@ -2414,8 +2414,8 @@
             "place": ""
         }
     },
-    "91eaddc15f634641b038d6cd38a4a2c9": {
-        "id": "91eaddc15f634641b038d6cd38a4a2c9",
+    "0679622782f543c2b60bc2d41c0974cf": {
+        "id": "0679622782f543c2b60bc2d41c0974cf",
         "authors": [
             {
                 "lastname": "Diedrichsen",
@@ -2423,7 +2423,7 @@
             }
         ],
         "year": "2013",
-        "article_name": "Constructions as Memes\u2013Interactional Function as Cultural Convention beyond the Words.' In Beyond Words : Content, Context, and Inference, edited by Frank Liedtke and Cornelia Schulze, ",
+        "article_name": "Constructions as Memes–Interactional Function as Cultural Convention beyond the Words.' In Beyond Words : Content, Context, and Inference, edited by Frank Liedtke and Cornelia Schulze, ",
         "resource_type": "Book Chapter",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -2443,8 +2443,8 @@
             "place": ""
         }
     },
-    "c402f0e2761341e8b327bbeb3e629024": {
-        "id": "c402f0e2761341e8b327bbeb3e629024",
+    "ff631eb0ccc44c87ae38cf99fec37a9c": {
+        "id": "ff631eb0ccc44c87ae38cf99fec37a9c",
         "authors": [
             {
                 "lastname": "Diedrichsen",
@@ -2472,8 +2472,8 @@
             "place": ""
         }
     },
-    "f51cad42fed1472fbf46b3ecc98a16e5": {
-        "id": "f51cad42fed1472fbf46b3ecc98a16e5",
+    "521ef4c10b9c4b6c98160048c1b34174": {
+        "id": "521ef4c10b9c4b6c98160048c1b34174",
         "authors": [
             {
                 "lastname": "Diedrichsen",
@@ -2501,8 +2501,8 @@
             "place": ""
         }
     },
-    "f8e97c06380e4ba3b7eae86e3ae4cb82": {
-        "id": "f8e97c06380e4ba3b7eae86e3ae4cb82",
+    "1699d606ae9f433184c74a0dac32bef4": {
+        "id": "1699d606ae9f433184c74a0dac32bef4",
         "authors": [
             {
                 "lastname": "Fomin",
@@ -2530,8 +2530,8 @@
             "place": ""
         }
     },
-    "0465bc2662bb457aa2874da5e192f2ab": {
-        "id": "0465bc2662bb457aa2874da5e192f2ab",
+    "9dad4a708f8e42e9aedb681bbed026a7": {
+        "id": "9dad4a708f8e42e9aedb681bbed026a7",
         "authors": [
             {
                 "lastname": "Huntington",
@@ -2560,8 +2560,8 @@
             "place": ""
         }
     },
-    "ba5176167ab14e59a4a79e28425f9526": {
-        "id": "ba5176167ab14e59a4a79e28425f9526",
+    "199aa91fe298449f8125a127cbad1a27": {
+        "id": "199aa91fe298449f8125a127cbad1a27",
         "authors": [
             {
                 "lastname": "Katz",
@@ -2593,8 +2593,8 @@
             "place": ""
         }
     },
-    "5488118b353342a2bba0940c2294bc36": {
-        "id": "5488118b353342a2bba0940c2294bc36",
+    "89f6824670eb4033bb9c6b43eb1188ab": {
+        "id": "89f6824670eb4033bb9c6b43eb1188ab",
         "authors": [
             {
                 "lastname": "Kilpinen",
@@ -2622,8 +2622,8 @@
             "place": ""
         }
     },
-    "c2aa7a48484a4fe995787e7cae369d66": {
-        "id": "c2aa7a48484a4fe995787e7cae369d66",
+    "781ec4793914470a90be395ba5552b14": {
+        "id": "781ec4793914470a90be395ba5552b14",
         "authors": [
             {
                 "lastname": "Leskovec",
@@ -2659,8 +2659,8 @@
             "place": ""
         }
     },
-    "fd59be6574d74bd88f37ae0b1e53d089": {
-        "id": "fd59be6574d74bd88f37ae0b1e53d089",
+    "c4fba1da5b694b0b9f465c48c38687cc": {
+        "id": "c4fba1da5b694b0b9f465c48c38687cc",
         "authors": [
             {
                 "lastname": "Matley",
@@ -2668,7 +2668,7 @@
             }
         ],
         "year": "2018",
-        "article_name": "\u2018This Is NOT a #humblebrag, This Is Just a #brag\u2019: The Pragmatics of Self-Praise, Hashtags and Politeness in Instagram Posts",
+        "article_name": "‘This Is NOT a #humblebrag, This Is Just a #brag’: The Pragmatics of Self-Praise, Hashtags and Politeness in Instagram Posts",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -2690,8 +2690,8 @@
             "place": ""
         }
     },
-    "58a1c27368654135b95c3e352fdf441b": {
-        "id": "58a1c27368654135b95c3e352fdf441b",
+    "956023f288ad466e91df459e0bc546ff": {
+        "id": "956023f288ad466e91df459e0bc546ff",
         "authors": [
             {
                 "lastname": "Nissenbaum",
@@ -2724,8 +2724,8 @@
             "place": ""
         }
     },
-    "e0f0ef9825cc47a29834783b7e12b7cb": {
-        "id": "e0f0ef9825cc47a29834783b7e12b7cb",
+    "645a6024a0554d2aab49f79f6507f541": {
+        "id": "645a6024a0554d2aab49f79f6507f541",
         "authors": [
             {
                 "lastname": "Seta",
@@ -2753,8 +2753,8 @@
             "place": ""
         }
     },
-    "3e0af1236ddd440db9e0067c228561c6": {
-        "id": "3e0af1236ddd440db9e0067c228561c6",
+    "fadc2acea38448ec8f487be3d2ba9558": {
+        "id": "fadc2acea38448ec8f487be3d2ba9558",
         "authors": [
             {
                 "lastname": "West",
@@ -2782,8 +2782,8 @@
             "place": ""
         }
     },
-    "e0dd210124f341ecb29a5a86d037a229": {
-        "id": "e0dd210124f341ecb29a5a86d037a229",
+    "960bfd79f23442ffaa51e1e155667c8e": {
+        "id": "960bfd79f23442ffaa51e1e155667c8e",
         "authors": [
             {
                 "lastname": "Yus",
@@ -2794,7 +2794,7 @@
         "article_name": "Multimodality in Memes: A Cyberpragmatic Approach",
         "resource_type": "Book Chapter",
         "book_bookname": "Analyzing Digital Discourse: New Insights and Future Directions",
-        "book_bookeditor": "Patricia Bou-Franch, Pilar Garc\u00e9s-Conejos Blitvich",
+        "book_bookeditor": "Patricia Bou-Franch, Pilar Garcés-Conejos Blitvich",
         "publisher": "Springer International Publishing",
         "book_isbn": "",
         "book_city": "",
@@ -2811,8 +2811,8 @@
             "place": ""
         }
     },
-    "70ec50dbaecb4c8299e72ac6545adebd": {
-        "id": "70ec50dbaecb4c8299e72ac6545adebd",
+    "6e25b2b2de5248a4b730a7c1c496cd52": {
+        "id": "6e25b2b2de5248a4b730a7c1c496cd52",
         "authors": [
             {
                 "lastname": "Yus",
@@ -2840,8 +2840,8 @@
             "place": ""
         }
     },
-    "3c107c76a8ce4d649516a723f09f6fd1": {
-        "id": "3c107c76a8ce4d649516a723f09f6fd1",
+    "c9032c4b3ae4470ba891325f196cbb05": {
+        "id": "c9032c4b3ae4470ba891325f196cbb05",
         "authors": [
             {
                 "lastname": "Yus",
@@ -2869,8 +2869,8 @@
             "place": ""
         }
     },
-    "69e2a2c032b2448f8a0a4750f64e0208": {
-        "id": "69e2a2c032b2448f8a0a4750f64e0208",
+    "96ff1059df2b49b98a242f08292a2c9a": {
+        "id": "96ff1059df2b49b98a242f08292a2c9a",
         "authors": [
             {
                 "lastname": "Benaim",
@@ -2898,8 +2898,8 @@
             "place": ""
         }
     },
-    "9121ba2dde914ed985401031b8778f03": {
-        "id": "9121ba2dde914ed985401031b8778f03",
+    "8d7c1c4557494d7b9194371645a49ce6": {
+        "id": "8d7c1c4557494d7b9194371645a49ce6",
         "authors": [
             {
                 "lastname": "Brodie",
@@ -2927,8 +2927,8 @@
             "place": ""
         }
     },
-    "06ea6b863ea840dbb625f6a8d29c5985": {
-        "id": "06ea6b863ea840dbb625f6a8d29c5985",
+    "03bf7bdf67424a058ae20342fc5728f6": {
+        "id": "03bf7bdf67424a058ae20342fc5728f6",
         "authors": [
             {
                 "lastname": "Brubaker",
@@ -2972,8 +2972,8 @@
             "place": ""
         }
     },
-    "7c4beda3a8c64da6b5fd41a2077d6121": {
-        "id": "7c4beda3a8c64da6b5fd41a2077d6121",
+    "b7dbdae4f1694e30bd052dbada2800d0": {
+        "id": "b7dbdae4f1694e30bd052dbada2800d0",
         "authors": [
             {
                 "lastname": "Castella",
@@ -3005,8 +3005,8 @@
             "place": ""
         }
     },
-    "9c3d9b3e1eb24f42b641a8657bf7e7c2": {
-        "id": "9c3d9b3e1eb24f42b641a8657bf7e7c2",
+    "779c84ab60ea45f697faeffc5f4cabae": {
+        "id": "779c84ab60ea45f697faeffc5f4cabae",
         "authors": [
             {
                 "lastname": "Couldry",
@@ -3038,8 +3038,8 @@
             "place": ""
         }
     },
-    "3f75e2a1e2e048e990242698e56f28cb": {
-        "id": "3f75e2a1e2e048e990242698e56f28cb",
+    "2e7b168e174a4b488c6cf565de0a8f2e": {
+        "id": "2e7b168e174a4b488c6cf565de0a8f2e",
         "authors": [
             {
                 "lastname": "Jensen",
@@ -3055,7 +3055,7 @@
             }
         ],
         "year": "2020",
-        "article_name": "\u201cBrussels Will Land on Its Feet like a Cat\u201d: Motivations for Memefying #Brusselslockdown",
+        "article_name": "“Brussels Will Land on Its Feet like a Cat”: Motivations for Memefying #Brusselslockdown",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -3075,8 +3075,8 @@
             "place": "Europe"
         }
     },
-    "d09bf81351dd48c7bec14b970302ab0d": {
-        "id": "d09bf81351dd48c7bec14b970302ab0d",
+    "cc0bb61cf85c4c9c85f270699a8527de": {
+        "id": "cc0bb61cf85c4c9c85f270699a8527de",
         "authors": [
             {
                 "lastname": "Literat",
@@ -3088,7 +3088,7 @@
             }
         ],
         "year": "2019",
-        "article_name": "Buy Memes Low, Sell Memes High: Vernacular Criticism and Collective Negotiations of Value on Reddit\u2019s MemeEconomy",
+        "article_name": "Buy Memes Low, Sell Memes High: Vernacular Criticism and Collective Negotiations of Value on Reddit’s MemeEconomy",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -3108,8 +3108,8 @@
             "place": ""
         }
     },
-    "bb887194bb71407c9ba1db24fbcc1f1a": {
-        "id": "bb887194bb71407c9ba1db24fbcc1f1a",
+    "46b2482a66f644869e88e7750048f328": {
+        "id": "46b2482a66f644869e88e7750048f328",
         "authors": [
             {
                 "lastname": "Marciszewski",
@@ -3138,8 +3138,8 @@
             "place": ""
         }
     },
-    "22237fb3ab7d48dba0b1a586cb866146": {
-        "id": "22237fb3ab7d48dba0b1a586cb866146",
+    "c89bfd02d8b24a918c8543e21aa54548": {
+        "id": "c89bfd02d8b24a918c8543e21aa54548",
         "authors": [
             {
                 "lastname": "Matalon",
@@ -3168,8 +3168,8 @@
             "place": ""
         }
     },
-    "a03b3891d83b4d6eb576398092750d71": {
-        "id": "a03b3891d83b4d6eb576398092750d71",
+    "4f4ec7a3d02c4ca1a1a990064379551c": {
+        "id": "4f4ec7a3d02c4ca1a1a990064379551c",
         "authors": [
             {
                 "lastname": "Mielczarek",
@@ -3202,8 +3202,8 @@
             "place": ""
         }
     },
-    "4b1d26ba77344bda98a6d098d03bada8": {
-        "id": "4b1d26ba77344bda98a6d098d03bada8",
+    "b059ea2377664353bdd5476c1f58657b": {
+        "id": "b059ea2377664353bdd5476c1f58657b",
         "authors": [
             {
                 "lastname": "Milner",
@@ -3231,8 +3231,8 @@
             "place": ""
         }
     },
-    "46282018b0b34209b1f1a9c4c5202a2a": {
-        "id": "46282018b0b34209b1f1a9c4c5202a2a",
+    "244540ae8bfb4d3dbe922c103fcc4481": {
+        "id": "244540ae8bfb4d3dbe922c103fcc4481",
         "authors": [
             {
                 "lastname": "Nissenbaum",
@@ -3244,7 +3244,7 @@
             }
         ],
         "year": "2017",
-        "article_name": "Internet Memes as Contested Cultural Capital: The Case of 4chan\u2019s /b/ Board",
+        "article_name": "Internet Memes as Contested Cultural Capital: The Case of 4chan’s /b/ Board",
         "resource_type": "Article (Journal)",
         "book_bookname": "",
         "book_bookeditor": "",
@@ -3264,11 +3264,11 @@
             "place": ""
         }
     },
-    "6def099b4fd84de5ba1e2adafbd95df9": {
-        "id": "6def099b4fd84de5ba1e2adafbd95df9",
+    "38c79a8abcfd4fd3aaf5c494e7cc2ad8": {
+        "id": "38c79a8abcfd4fd3aaf5c494e7cc2ad8",
         "authors": [
             {
-                "lastname": "Pa\u00dfmann",
+                "lastname": "Paßmann",
                 "firstname": "Johannes"
             },
             {
@@ -3297,8 +3297,8 @@
             "place": ""
         }
     },
-    "0cfe1c3970054e5aa7dfc3eda65d2c82": {
-        "id": "0cfe1c3970054e5aa7dfc3eda65d2c82",
+    "c1714cf399204c1898fb43398f960278": {
+        "id": "c1714cf399204c1898fb43398f960278",
         "authors": [
             {
                 "lastname": "Phillips",
@@ -3330,8 +3330,8 @@
             "place": ""
         }
     },
-    "f78e32e3c480476995a6e0bd5bbfdfa2": {
-        "id": "f78e32e3c480476995a6e0bd5bbfdfa2",
+    "f9b039d840124c92950bd2eda05ef48f": {
+        "id": "f9b039d840124c92950bd2eda05ef48f",
         "authors": [
             {
                 "lastname": "Yang",

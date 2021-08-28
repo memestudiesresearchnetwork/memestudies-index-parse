@@ -4,7 +4,7 @@ import csv
 
 #create dictionary to store all index entries
 index = {}
-with open('MemeStudiesIndex.csv', newline='') as csvfile:
+with open('Meme Studies Index .xlsx - Sheet1.csv', newline='', encoding='utf-8') as csvfile:
 	reader = csv.DictReader(csvfile)
 	#iterate through every line of csv file
 	for row in reader:
@@ -33,4 +33,4 @@ with open('MemeStudiesIndex.csv', newline='') as csvfile:
 		index[id] = index_entry
 
 with open("meme_studies_index.json", "w") as outfile:
-    json.dump(index, outfile, indent=4)
+    json.dump(index, outfile, indent=4, ensure_ascii=False)
